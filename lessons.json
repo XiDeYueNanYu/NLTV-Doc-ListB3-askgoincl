@@ -1839,5 +1839,269 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Hiện tượng mưa axit và những tác động tiêu cực đến môi trường",
+        "text": "Mưa axit là hiện tượng nước mưa có độ chua với độ pH dưới 5,6. Thành phần chính trong loại nước mưa này chứa các hợp chất nitơ và lưu huỳnh. Nguyên nhân sâu xa của tình trạng này bắt nguồn từ việc con người tiêu thụ quá nhiều nguyên liệu tự nhiên như than đá và dầu mỏ để phục vụ cho các hoạt động sản xuất và đời sống. Trong quá trình đốt cháy, các nguyên liệu này thải ra lượng lớn khí độc hại như lưu huỳnh đioxit và nitơ đioxit. Khi các loại khí này hòa tan với hơi nước trong không khí, chúng tạo thành axit sunfuaric và axit nitric. Khi mưa xuống, các hạt axit hòa lẫn vào nước, làm giảm độ pH của nước mưa và trở nên độc hại đối với cây cối, vật nuôi cũng như sức khỏe con người.\n\nMưa axit gây ra những tác động nghiêm trọng đến hệ sinh thái rừng. Chúng rửa trôi các chất dinh dưỡng và tiêu diệt những vi sinh vật có lợi, làm giảm sức đề kháng của cây cối khiến cây dễ mắc bệnh. Tại châu Âu, nhiều quốc gia đã ghi nhận tình trạng hàng triệu cây bị chết hoặc diện tích rừng bị tàn phá nặng nề. Bên cạnh đó, mưa axit còn ảnh hưởng xấu tới ao hồ. Khi lượng axit đổ vào các thủy vực này, độ pH thay đổi đột ngột khiến các sinh vật dưới nước bị suy yếu hoặc chết hàng loạt. Nhiều nơi đã trở thành những hồ nước chết, không còn bất kỳ loài cá nào sinh sống.\n\nKhông chỉ dừng lại ở đó, mưa axit còn để lại hậu quả lâu dài cho môi trường đất và nguồn nước ngầm. Những cơn mưa hoặc tuyết có nồng độ axit cao ngấm xuống đất làm tăng độ chua, gây suy thoái đất nghiêm trọng. Ngoài ra, axit còn phá hủy các công trình xây dựng và di tích văn hóa lịch sử. Các bề mặt làm từ xi măng, bê tông, đá cẩm thạch hay kim loại dễ bị lở tróc, làm giảm tuổi thọ của những công trình nghệ thuật quý giá. Đối với con người, mưa axit cũng làm tăng nguy cơ mắc các bệnh về đường hô hấp và phổi.\n\nTại Việt Nam, hiện tượng mưa axit đã được xác nhận xuất hiện ở một số nơi thông qua các trạm quan trắc. Từ năm 1999, Việt Nam đã tham gia mạng lưới giám sát lắng đọng axit vùng Đông Á để theo dõi tình hình. Hiện nay, việc nghiên cứu và tìm ra các giải pháp khắc phục hiệu quả, nhằm cân bằng giữa phát triển kinh tế và bảo vệ môi trường, vẫn là một bài toán khó đòi hỏi sự nỗ lực lớn của các nhà khoa học và toàn xã hội.",
+        "dictionary": {
+            "Mưa": "雨",
+            "axit": "酸",
+            "hiện tượng": "现象",
+            "nước mưa": "雨水",
+            "độ chua": "酸度",
+            "độ pH": "pH值",
+            "Thành phần": "成分",
+            "loại": "种类",
+            "hợp chất": "化合物",
+            "nitơ": "氮",
+            "lưu huỳnh": "硫",
+            "Nguyên nhân": "原因",
+            "sâu xa": "深层",
+            "tình trạng": "状况",
+            "con người": "人类",
+            "tiêu thụ": "消耗",
+            "nguyên liệu": "原料",
+            "tự nhiên": "自然",
+            "than đá": "煤炭",
+            "dầu mỏ": "石油",
+            "phục vụ": "服务",
+            "hoạt động": "活动",
+            "sản xuất": "生产",
+            "đời sống": "生活",
+            "quá trình": "过程",
+            "đốt cháy": "燃烧",
+            "thải ra": "排放",
+            "lượng": "量",
+            "khí": "气体",
+            "độc hại": "有害",
+            "lưu huỳnh đioxit": "二氧化硫",
+            "nitơ đioxit": "二氧化氮",
+            "hòa tan": "溶解",
+            "hơi nước": "水蒸气",
+            "không khí": "空气",
+            "tạo thành": "形成",
+            "axit sunfuaric": "硫酸",
+            "axit nitric": "硝酸",
+            "hạt": "颗粒",
+            "hòa lẫn": "混合",
+            "giảm": "降低",
+            "cây cối": "树木",
+            "vật nuôi": "家畜",
+            "sức khỏe": "健康",
+            "tác động": "影响",
+            "nghiêm trọng": "严重",
+            "hệ sinh thái": "生态系统",
+            "rừng": "森林",
+            "rửa trôi": "冲刷",
+            "chất dinh dưỡng": "营养物质",
+            "tiêu diệt": "消灭",
+            "vi sinh vật": "微生物",
+            "có lợi": "有益",
+            "sức đề kháng": "抵抗力",
+            "mắc bệnh": "患病",
+            "châu Âu": "欧洲",
+            "quốc gia": "国家",
+            "ghi nhận": "记录",
+            "diện tích": "面积",
+            "tàn phá": "破坏",
+            "nặng nề": "沉重",
+            "ảnh hưởng": "影响",
+            "xấu": "坏",
+            "ao hồ": "湖泊",
+            "thủy vực": "水域",
+            "thay đổi": "改变",
+            "đột ngột": "突然",
+            "sinh vật": "生物",
+            "dưới nước": "水下",
+            "suy yếu": "衰弱",
+            "chết": "死亡",
+            "hàng loạt": "大规模",
+            "nơi": "地方",
+            "loài cá": "鱼类",
+            "sinh sống": "生存",
+            "hậu quả": "后果",
+            "lâu dài": "长期",
+            "môi trường": "环境",
+            "đất": "土地",
+            "nguồn nước ngầm": "地下水",
+            "cơn mưa": "雨",
+            "tuyết": "雪",
+            "nồng độ": "浓度",
+            "cao": "高",
+            "ngấm": "渗透",
+            "tăng": "增加",
+            "suy thoái": "退化",
+            "phá hủy": "摧毁",
+            "công trình": "工程",
+            "xây dựng": "建设",
+            "di tích": "遗迹",
+            "văn hóa": "文化",
+            "lịch sử": "历史",
+            "bề mặt": "表面",
+            "xi măng": "水泥",
+            "bê tông": "混凝土",
+            "đá cẩm thạch": "大理石",
+            "kim loại": "金属",
+            "lở tróc": "剥落",
+            "tuổi thọ": "寿命",
+            "nghệ thuật": "艺术",
+            "quý giá": "珍贵",
+            "nguy cơ": "风险",
+            "đường hô hấp": "呼吸道",
+            "phổi": "肺",
+            "Việt Nam": "越南",
+            "xác nhận": "确认",
+            "xuất hiện": "出现",
+            "trạm quan trắc": "监测站",
+            "năm": "年",
+            "tham gia": "参加",
+            "mạng lưới": "网络",
+            "giám sát": "监督",
+            "lắng đọng": "沉降",
+            "vùng": "区域",
+            "Đông Á": "东亚",
+            "theo dõi": "追踪",
+            "tình hình": "情况",
+            "nghiên cứu": "研究",
+            "tìm ra": "找出",
+            "giải pháp": "解决方案",
+            "khắc phục": "克服",
+            "hiệu quả": "有效",
+            "cân bằng": "平衡",
+            "phát triển": "发展",
+            "kinh tế": "经济",
+            "bảo vệ": "保护",
+            "bài toán": "难题",
+            "khó": "难",
+            "đòi hỏi": "要求",
+            "nỗ lực": "努力",
+            "lớn": "大",
+            "nhà khoa học": "科学家",
+            "xã hội": "社会"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Mưa axit là hiện tượng nước mưa có độ pH dưới 5,6.",
+                    "Thành phần chính trong mưa axit chứa các hợp chất nitơ và lưu huỳnh.",
+                    "Nguyên nhân sâu xa của tình trạng này bắt nguồn từ việc con người tiêu thụ quá nhiều nguyên liệu tự nhiên.",
+                    "Khi các loại khí này hòa tan với hơi nước trong không khí, chúng tạo thành axit sunfuaric và axit nitric nên mưa axit."
+                ],
+                "correct": "Khi các loại khí này hòa tan với hơi nước trong không khí, chúng tạo thành axit sunfuaric và axit nitric nên mưa axit."
+            },
+            {
+                "question": "Theo bài đọc, nguyên nhân chính dẫn đến sự hình thành mưa axit là gì?",
+                "options": [
+                    "Sự gia tăng của các loài vi sinh vật có hại trong không khí.",
+                    "Việc con người tiêu thụ quá nhiều than đá và dầu mỏ.",
+                    "Sự thay đổi đột ngột của độ pH trong các thủy vực.",
+                    "Quá trình rửa trôi chất dinh dưỡng trong đất rừng."
+                ],
+                "correct": "Việc con người tiêu thụ quá nhiều than đá và dầu mỏ."
+            },
+            {
+                "question": "Khi mưa axit tác động vào các thủy vực, điều gì sẽ xảy ra?",
+                "options": [
+                    "Các sinh vật dưới nước bị suy yếu hoặc chết hàng loạt.",
+                    "Độ pH của nước trong ao hồ tăng lên đáng kể.",
+                    "Các loài cá phát triển mạnh mẽ hơn nhờ nguồn dinh dưỡng mới.",
+                    "Nguồn nước ngầm được làm sạch nhờ các hợp chất lưu huỳnh."
+                ],
+                "correct": "Các sinh vật dưới nước bị suy yếu hoặc chết hàng loạt."
+            },
+            {
+                "question": "Từ “thủy vực” trong đoạn 2 có thể được hiểu là gì?",
+                "options": [
+                    "Các khu vực rừng rậm nhiệt đới.",
+                    "Các vùng đất bị suy thoái do mưa axit.",
+                    "Các môi trường nước như ao, hồ, sông, suối.",
+                    "Các công trình xây dựng bằng bê tông."
+                ],
+                "correct": "Các môi trường nước như ao, hồ, sông, suối."
+            },
+            {
+                "question": "Nếu nồng độ axit trong mưa hoặc tuyết tăng cao ngấm xuống đất, kết quả sẽ là gì?",
+                "options": [
+                    "Đất trở nên màu mỡ và giàu dinh dưỡng hơn.",
+                    "Độ chua của đất tăng lên, gây suy thoái đất nghiêm trọng.",
+                    "Các công trình di tích lịch sử được bảo vệ tốt hơn.",
+                    "Sức đề kháng của cây cối được cải thiện đáng kể."
+                ],
+                "correct": "Độ chua của đất tăng lên, gây suy thoái đất nghiêm trọng."
+            },
+            {
+                "question": "Cụm từ “hồ nước chết” trong bài đọc hàm ý điều gì?",
+                "options": [
+                    "Những hồ nước bị cạn kiệt hoàn toàn do biến đổi khí hậu.",
+                    "Những hồ nước bị ô nhiễm nặng nề đến mức không còn sự sống.",
+                    "Những hồ nước có độ pH quá cao khiến nước bị đóng băng.",
+                    "Những hồ nước được con người xây dựng để chứa nước thải."
+                ],
+                "correct": "Những hồ nước bị ô nhiễm nặng nề đến mức không còn sự sống."
+            },
+            {
+                "question": "Theo văn bản, mưa axit gây ảnh hưởng đến con người như thế nào?",
+                "options": [
+                    "Làm tăng nguy cơ mắc các bệnh về đường hô hấp và phổi.",
+                    "Khiến con người bị nhiễm độc qua việc tiêu thụ cá từ ao hồ.",
+                    "Gây ra các bệnh ngoài da khi tiếp xúc trực tiếp với nước mưa.",
+                    "Làm giảm tuổi thọ của các công trình xây dựng nơi con người sinh sống."
+                ],
+                "correct": "Làm tăng nguy cơ mắc các bệnh về đường hô hấp và phổi."
+            },
+            {
+                "question": "Từ “chúng” trong câu “Chúng rửa trôi các chất dinh dưỡng và tiêu diệt những vi sinh vật có lợi” quy chiếu đến đối tượng nào?",
+                "options": [
+                    "Các loại khí độc hại.",
+                    "Các hợp chất nitơ và lưu huỳnh.",
+                    "Các cơn mưa axit.",
+                    "Các nhà khoa học."
+                ],
+                "correct": "Các cơn mưa axit."
+            },
+            {
+                "question": "Tại sao mưa axit lại làm giảm tuổi thọ của các công trình nghệ thuật và di tích?",
+                "options": [
+                    "Vì axit làm tăng độ ẩm khiến công trình dễ bị nứt vỡ.",
+                    "Vì axit ăn mòn các bề mặt làm từ xi măng, bê tông, đá cẩm thạch và kim loại.",
+                    "Vì mưa axit tạo ra các lớp rêu mốc bao phủ bề mặt công trình.",
+                    "Vì mưa axit làm thay đổi màu sắc của các loại đá quý."
+                ],
+                "correct": "Vì axit ăn mòn các bề mặt làm từ xi măng, bê tông, đá cẩm thạch và kim loại."
+            },
+            {
+                "question": "Việt Nam đã thực hiện hành động gì để ứng phó với tình trạng mưa axit?",
+                "options": [
+                    "Cấm hoàn toàn việc sử dụng than đá và dầu mỏ trong sản xuất.",
+                    "Tham gia mạng lưới giám sát lắng đọng axit vùng Đông Á từ năm 1999.",
+                    "Xây dựng các trạm quan trắc trên toàn bộ lãnh thổ quốc gia.",
+                    "Ngừng các hoạt động công nghiệp để bảo vệ hệ sinh thái rừng."
+                ],
+                "correct": "Tham gia mạng lưới giám sát lắng đọng axit vùng Đông Á từ năm 1999."
+            },
+            {
+                "question": "Cụm từ “bài toán khó” trong đoạn cuối hàm ý điều gì?",
+                "options": [
+                    "Việc giải các phương trình hóa học phức tạp về mưa axit.",
+                    "Thách thức trong việc cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường.",
+                    "Sự thiếu hụt nguồn ngân sách dành cho các nhà khoa học.",
+                    "Khó khăn trong việc thuyết phục người dân thay đổi thói quen sinh hoạt."
+                ],
+                "correct": "Thách thức trong việc cân bằng giữa tăng trưởng kinh tế và bảo vệ môi trường."
+            },
+            {
+                "question": "Đặc điểm nào sau đây mô tả đúng về mưa axit theo bài đọc?",
+                "options": [
+                    "Là hiện tượng nước mưa có độ pH cao hơn 7,0.",
+                    "Chỉ xuất hiện ở các nước châu Âu và chưa từng có ở Việt Nam.",
+                    "Có thành phần chính là khí oxy và hydro.",
+                    "Là nước mưa có độ chua với độ pH dưới 5,6."
+                ],
+                "correct": "Là nước mưa có độ chua với độ pH dưới 5,6."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
