@@ -2103,5 +2103,246 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Định hướng nghề nghiệp cho học sinh trung học phổ thông",
+        "text": "Nghề nghiệp là yếu tố quyết định tương lai của mỗi cá nhân. Tuy nhiên, nhiều năm qua, đa số học sinh chỉ tập trung đăng ký các khối ngành kinh tế, trong khi nhân lực ngành xã hội và kỹ thuật chất lượng cao lại thiếu hụt. Sự mất cân bằng này xuất phát từ việc định hướng nghề nghiệp cho học sinh trung học phổ thông còn hạn chế, khiến các em thiếu tầm nhìn cho tương lai.\n\nĐể có định hướng đúng đắn, học sinh cần hội tụ ba yếu tố cơ bản. Thứ nhất là đam mê, sự yêu thích để dành tâm huyết theo đuổi công việc. Thứ hai là năng lực và thế mạnh cá nhân; các em cần hiểu rõ điểm mạnh, điểm yếu để chọn nghề phù hợp. Thứ ba là cơ hội nghề nghiệp, bao gồm sự hiểu biết về nhu cầu thị trường lao động. Nhiều học sinh hiện nay chọn nghề dựa trên sở thích cá nhân hoặc lời khuyên từ gia đình thay vì đánh giá thực tế năng lực. Điều này dễ dẫn đến tình trạng thất nghiệp sau khi ra trường, gây lãng phí nguồn lực xã hội.\n\nQuá trình định hướng nghề nghiệp hiệu quả gồm năm bước quan trọng. Bước một, học sinh cần xác định sở thích và tính cách dưới sự tư vấn của thầy cô, cha mẹ, tránh việc chạy theo các ngành “hot” hoặc áp lực truyền thống gia đình. Bước hai, các em cần đánh giá năng lực học tập và điều kiện kinh tế, sức khỏe của bản thân. Việc tìm đến các chuyên gia tư vấn hướng nghiệp là phương pháp hữu hiệu giúp học sinh có cái nhìn khách quan. Bước ba, học sinh nên chủ động thử sức với những công việc liên quan đến nghề mình chọn. Qua đó, các em sẽ rút ra kinh nghiệm thực tế và kiểm chứng xem bản thân có thực sự phù hợp với công việc đó hay không. Bước bốn, việc tìm hiểu kỹ thông tin về ngành học, trường đào tạo và thị trường việc làm thông qua internet, sách vở hoặc các anh chị đi trước là vô cùng cần thiết. Cuối cùng, bước năm là chuẩn bị tâm lý vững vàng. Nếu không đỗ vào trường mong muốn, các em vẫn có thể thành công bằng những con đường khác. Định hướng nghề nghiệp không chỉ là chuẩn bị kiến thức mà còn là sự chuẩn bị tâm lý để đối mặt với những vấp ngã.\n\nTóm lại, định hướng nghề nghiệp cho học sinh là nhu cầu tất yếu, đòi hỏi sự chung tay của gia đình, nhà trường và toàn xã hội. Một sự chuẩn bị kỹ lưỡng sẽ giúp các em phát triển đúng hướng, góp phần phân bổ nguồn nhân lực hiệu quả và giảm thiểu tình trạng thất nghiệp trong tương lai.",
+        "dictionary": {
+            "Nghề nghiệp": "职业",
+            "yếu tố": "因素",
+            "quyết định": "决定",
+            "tương lai": "未来",
+            "cá nhân": "个人",
+            "năm": "年",
+            "học sinh": "学生",
+            "tập trung": "集中",
+            "đăng ký": "注册",
+            "khối ngành": "专业组",
+            "kinh tế": "经济",
+            "nhân lực": "人力",
+            "ngành": "行业",
+            "xã hội": "社会",
+            "kỹ thuật": "技术",
+            "chất lượng cao": "高质量",
+            "thiếu hụt": "短缺",
+            "mất cân bằng": "失衡",
+            "xuất phát": "出发",
+            "định hướng": "导向",
+            "trung học phổ thông": "高中",
+            "hạn chế": "有限",
+            "tầm nhìn": "视野",
+            "đúng đắn": "正确",
+            "hội tụ": "汇聚",
+            "cơ bản": "基本",
+            "đam mê": "热爱",
+            "yêu thích": "喜爱",
+            "tâm huyết": "心血",
+            "theo đuổi": "追求",
+            "công việc": "工作",
+            "năng lực": "能力",
+            "thế mạnh": "优势",
+            "hiểu rõ": "了解",
+            "điểm mạnh": "优点",
+            "điểm yếu": "缺点",
+            "chọn": "选择",
+            "phù hợp": "适合",
+            "cơ hội": "机会",
+            "hiểu biết": "理解",
+            "nhu cầu": "需求",
+            "thị trường": "市场",
+            "lao động": "劳动",
+            "sở thích": "兴趣",
+            "lời khuyên": "建议",
+            "gia đình": "家庭",
+            "đánh giá": "评估",
+            "thực tế": "实际",
+            "dẫn đến": "导致",
+            "tình trạng": "状况",
+            "thất nghiệp": "失业",
+            "ra trường": "毕业",
+            "lãng phí": "浪费",
+            "nguồn lực": "资源",
+            "quá trình": "过程",
+            "hiệu quả": "有效",
+            "bước": "步骤",
+            "quan trọng": "重要",
+            "xác định": "确定",
+            "tính cách": "性格",
+            "tư vấn": "咨询",
+            "thầy cô": "老师",
+            "cha mẹ": "父母",
+            "tránh": "避免",
+            "chạy theo": "追随",
+            "áp lực": "压力",
+            "truyền thống": "传统",
+            "học tập": "学习",
+            "điều kiện": "条件",
+            "sức khỏe": "健康",
+            "bản thân": "自身",
+            "tìm đến": "寻找",
+            "chuyên gia": "专家",
+            "hướng nghiệp": "职业指导",
+            "phương pháp": "方法",
+            "hữu hiệu": "有效",
+            "cái nhìn": "视角",
+            "khách quan": "客观",
+            "chủ động": "主动",
+            "thử sức": "尝试",
+            "liên quan": "相关",
+            "rút ra": "总结",
+            "kinh nghiệm": "经验",
+            "kiểm chứng": "验证",
+            "tìm hiểu": "了解",
+            "thông tin": "信息",
+            "trường": "学校",
+            "đào tạo": "培训",
+            "việc làm": "就业",
+            "internet": "互联网",
+            "sách vở": "书籍",
+            "anh chị": "学长学姐",
+            "cần thiết": "必要",
+            "chuẩn bị": "准备",
+            "tâm lý": "心理",
+            "vững vàng": "稳固",
+            "đỗ": "考上",
+            "thành công": "成功",
+            "con đường": "道路",
+            "kiến thức": "知识",
+            "đối mặt": "面对",
+            "vấp ngã": "挫折",
+            "tóm lại": "总结",
+            "tất yếu": "必然",
+            "đòi hỏi": "要求",
+            "chung tay": "携手",
+            "nhà trường": "学校",
+            "kỹ lưỡng": "仔细",
+            "phát triển": "发展",
+            "phân bổ": "分配",
+            "giảm thiểu": "减少"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Nghề nghiệp là yếu tố quyết định tương lai của mỗi cá nhân.",
+                    "Sự mất cân bằng này xuất phát từ việc định hướng nghề nghiệp cho học sinh trung học phổ thông còn hạn chế.",
+                    "Nếu không đỗ vào trường mong muốn, các em vẫn có thể thành công bằng những con đường khác.",
+                    "Việc học sinh chọn nghề dựa trên sở thích cá nhân hoặc lời khuyên từ gia đình thay vì đánh giá thực tế năng lực là dẫn đến tình trạng thất nghiệp."
+                ],
+                "correct": "Việc học sinh chọn nghề dựa trên sở thích cá nhân hoặc lời khuyên từ gia đình thay vì đánh giá thực tế năng lực là dẫn đến tình trạng thất nghiệp."
+            },
+            {
+                "question": "Theo bài đọc, yếu tố nào sau đây không nằm trong ba yếu tố cơ bản để định hướng nghề nghiệp đúng đắn?",
+                "options": [
+                    "Đam mê và sự yêu thích công việc",
+                    "Năng lực và thế mạnh cá nhân",
+                    "Sự hiểu biết về nhu cầu thị trường lao động",
+                    "Lời khuyên từ gia đình và người thân"
+                ],
+                "correct": "Lời khuyên từ gia đình và người thân"
+            },
+            {
+                "question": "Theo văn bản, việc tìm đến các chuyên gia tư vấn hướng nghiệp thuộc bước nào trong quá trình định hướng nghề nghiệp?",
+                "options": [
+                    "Bước một",
+                    "Bước hai",
+                    "Bước ba",
+                    "Bước bốn"
+                ],
+                "correct": "Bước hai"
+            },
+            {
+                "question": "Theo bài đọc, trạng thái của học sinh khi chọn nghề dựa trên sở thích cá nhân hoặc lời khuyên gia đình thay vì đánh giá thực tế năng lực là gì?",
+                "options": [
+                    "Dễ dẫn đến tình trạng thất nghiệp sau khi ra trường",
+                    "Giúp các em có tầm nhìn rộng mở cho tương lai",
+                    "Đảm bảo sự cân bằng nguồn nhân lực cho xã hội",
+                    "Giúp các em phát triển đúng hướng và hiệu quả"
+                ],
+                "correct": "Dễ dẫn đến tình trạng thất nghiệp sau khi ra trường"
+            },
+            {
+                "question": "Theo văn bản, hoạt động nào sau đây được khuyến khích để học sinh kiểm chứng sự phù hợp với công việc?",
+                "options": [
+                    "Đăng ký các khối ngành kinh tế đang là xu hướng",
+                    "Chủ động thử sức với những công việc liên quan đến nghề mình chọn",
+                    "Chỉ tập trung vào việc học tập kiến thức tại trường",
+                    "Tìm kiếm lời khuyên từ những người chưa có kinh nghiệm"
+                ],
+                "correct": "Chủ động thử sức với những công việc liên quan đến nghề mình chọn"
+            },
+            {
+                "question": "Từ “hot” trong đoạn ba có thể được hiểu là gì?",
+                "options": [
+                    "Những ngành học có nhiệt độ cao",
+                    "Những ngành học đang được ưa chuộng hoặc thu hút sự quan tâm lớn",
+                    "Những ngành học khó khăn và đòi hỏi nhiều sức lực",
+                    "Những ngành học có liên quan đến công nghệ thông tin"
+                ],
+                "correct": "Những ngành học đang được ưa chuộng hoặc thu hút sự quan tâm lớn"
+            },
+            {
+                "question": "Từ “hạn chế” trong câu “định hướng nghề nghiệp cho học sinh trung học phổ thông còn hạn chế” có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Thiếu sót",
+                    "Phát triển",
+                    "Dồi dào",
+                    "Cụ thể"
+                ],
+                "correct": "Thiếu sót"
+            },
+            {
+                "question": "Nếu một học sinh không đỗ vào trường đại học mong muốn, theo bài đọc, học sinh đó nên làm gì?",
+                "options": [
+                    "Từ bỏ việc theo đuổi nghề nghiệp đã chọn",
+                    "Chấp nhận thất bại và không cần chuẩn bị thêm",
+                    "Chuẩn bị tâm lý vững vàng để tìm kiếm những con đường khác để thành công",
+                    "Chỉ tập trung vào việc thi lại vào năm sau"
+                ],
+                "correct": "Chuẩn bị tâm lý vững vàng để tìm kiếm những con đường khác để thành công"
+            },
+            {
+                "question": "Vì sao tác giả cho rằng việc học sinh chỉ tập trung vào các khối ngành kinh tế là một vấn đề?",
+                "options": [
+                    "Vì các ngành kinh tế không mang lại thu nhập cao",
+                    "Vì nó gây ra sự mất cân bằng trong cung ứng nhân lực chất lượng cao",
+                    "Vì các ngành kinh tế không đòi hỏi năng lực cá nhân",
+                    "Vì học sinh không có đam mê với các ngành này"
+                ],
+                "correct": "Vì nó gây ra sự mất cân bằng trong cung ứng nhân lực chất lượng cao"
+            },
+            {
+                "question": "Hàm ý của cụm từ “sự chung tay của gia đình, nhà trường và toàn xã hội” trong đoạn cuối là gì?",
+                "options": [
+                    "Mọi người cùng nhau đóng góp tài chính cho học sinh",
+                    "Sự phối hợp đồng bộ và trách nhiệm chung trong việc hỗ trợ học sinh định hướng nghề nghiệp",
+                    "Gia đình và nhà trường phải trực tiếp quyết định nghề nghiệp cho học sinh",
+                    "Xã hội phải tạo ra nhiều việc làm hơn cho học sinh"
+                ],
+                "correct": "Sự phối hợp đồng bộ và trách nhiệm chung trong việc hỗ trợ học sinh định hướng nghề nghiệp"
+            },
+            {
+                "question": "Câu “Định hướng nghề nghiệp không chỉ là chuẩn bị kiến thức mà còn là sự chuẩn bị tâm lý để đối mặt với những vấp ngã” mang hàm ý gì?",
+                "options": [
+                    "Kiến thức chuyên môn không quan trọng bằng tâm lý",
+                    "Học sinh cần chuẩn bị cả kỹ năng chuyên môn lẫn bản lĩnh tinh thần để vượt qua khó khăn",
+                    "Vấp ngã là điều không thể tránh khỏi trong quá trình học tập",
+                    "Việc chuẩn bị kiến thức là bước không cần thiết"
+                ],
+                "correct": "Học sinh cần chuẩn bị cả kỹ năng chuyên môn lẫn bản lĩnh tinh thần để vượt qua khó khăn"
+            },
+            {
+                "question": "Thông điệp chính mà tác giả muốn gửi gắm qua bài đọc là gì?",
+                "options": [
+                    "Học sinh nên chọn các ngành kỹ thuật thay vì ngành kinh tế",
+                    "Định hướng nghề nghiệp là quá trình quan trọng cần sự chuẩn bị kỹ lưỡng và khách quan",
+                    "Cha mẹ là người quyết định chính đến tương lai của con cái",
+                    "Thất nghiệp là lỗi của học sinh khi không chọn đúng ngành"
+                ],
+                "correct": "Định hướng nghề nghiệp là quá trình quan trọng cần sự chuẩn bị kỹ lưỡng và khách quan"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
