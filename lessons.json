@@ -2344,5 +2344,265 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Sự phát triển của thanh toán không dùng tiền mặt tại Việt Nam",
+        "text": "Trong những năm gần đây, Việt Nam đã chứng kiến bước chuyển dịch mạnh mẽ từ việc sử dụng tiền mặt sang các hình thức thanh toán điện tử. Theo số liệu từ Ngân hàng Nhà nước, hệ thống thanh toán đã xử lý gần 18 tỷ giao dịch không dùng tiền mặt trong năm 2025, với tổng giá trị tăng hơn 24% so với năm trước. Trong khi đó, các phương thức truyền thống như rút tiền tại máy ATM đang có xu hướng giảm dần. Sự bùng nổ của thanh toán qua mã QR cùng với sự phát triển của Internet và thiết bị di động đã thay đổi hoàn toàn thói quen tiêu dùng của người dân.\n\nBên cạnh đó, hạ tầng tài chính số cũng được cải thiện đáng kể. Đến cuối tháng 9/2025, tỷ lệ người trưởng thành sở hữu tài khoản ngân hàng đã đạt khoảng 87%. Dịch vụ Mobile Money đóng vai trò quan trọng trong việc mở rộng khả năng tiếp cận tài chính tại các vùng nông thôn và vùng sâu, vùng xa. Đặc biệt, việc triển khai Đề án 06 đã tạo nên bước đột phá khi kết nối hệ thống ngân hàng với Cơ sở dữ liệu quốc gia về dân cư. Điều này không chỉ giúp đơn giản hóa thủ tục mở tài khoản trực tuyến qua định danh điện tử mà còn nâng cao độ an toàn, bảo mật cho người dùng thông qua xác thực sinh trắc học.\n\nTuy nhiên, quá trình này vẫn còn tồn tại một số hạn chế. Thói quen dùng tiền mặt của người dân, đặc biệt là nhóm người cao tuổi, vẫn còn rất phổ biến. Bên cạnh đó, sự chênh lệch về hạ tầng công nghệ giữa các vùng miền và những rủi ro về an ninh mạng, lừa đảo công nghệ cao là những thách thức lớn. Một số tổ chức cung ứng dịch vụ chưa đầu tư đầy đủ cho hệ thống bảo mật, trong khi kỹ năng sử dụng công nghệ của người dân chưa đồng đều.\n\nĐể khắc phục những khó khăn trên, cần có sự phối hợp đồng bộ từ nhiều phía. Nhà nước cần đẩy mạnh công tác tuyên truyền, giáo dục tài chính nhằm thay đổi nhận thức của người dân, đồng thời có chính sách ưu đãi để khuyến khích thanh toán điện tử. Các ngân hàng cần đầu tư mạnh mẽ hơn vào hạ tầng công nghệ, áp dụng các giải pháp bảo mật hiện đại và hướng dẫn khách hàng kỹ năng bảo vệ thông tin cá nhân. Ngoài ra, việc hoàn thiện khung pháp lý và cơ chế chia sẻ dữ liệu giữa các doanh nghiệp là yếu tố then chốt để tạo ra một hệ sinh thái thanh toán an toàn, minh bạch và thuận tiện hơn trong tương lai.",
+        "dictionary": {
+            "năm": "年",
+            "Việt Nam": "越南",
+            "bước": "步",
+            "chuyển dịch": "转型",
+            "việc": "事",
+            "tiền mặt": "现金",
+            "hình thức": "形式",
+            "thanh toán": "支付",
+            "điện tử": "电子",
+            "số liệu": "数据",
+            "Ngân hàng Nhà nước": "国家银行",
+            "hệ thống": "系统",
+            "giao dịch": "交易",
+            "giá trị": "价值",
+            "phương thức": "方式",
+            "truyền thống": "传统",
+            "máy ATM": "自动取款机",
+            "xu hướng": "趋势",
+            "sự bùng nổ": "爆发",
+            "mã QR": "二维码",
+            "phát triển": "发展",
+            "Internet": "互联网",
+            "thiết bị": "设备",
+            "di động": "移动",
+            "thói quen": "习惯",
+            "tiêu dùng": "消费",
+            "người dân": "民众",
+            "hạ tầng": "基础设施",
+            "tài chính": "金融",
+            "số": "数字",
+            "tháng": "月",
+            "tỷ lệ": "比例",
+            "người trưởng thành": "成年人",
+            "tài khoản": "账户",
+            "ngân hàng": "银行",
+            "Dịch vụ": "服务",
+            "Mobile Money": "移动货币",
+            "vai trò": "作用",
+            "khả năng": "能力",
+            "tiếp cận": "接触",
+            "vùng": "区域",
+            "nông thôn": "农村",
+            "vùng sâu": "偏远地区",
+            "vùng xa": "边远地区",
+            "Đề án 06": "06号方案",
+            "bước đột phá": "突破",
+            "Cơ sở dữ liệu": "数据库",
+            "quốc gia": "国家",
+            "dân cư": "居民",
+            "thủ tục": "手续",
+            "định danh": "身份认证",
+            "độ an toàn": "安全性",
+            "bảo mật": "保密",
+            "người dùng": "用户",
+            "xác thực": "验证",
+            "sinh trắc học": "生物识别",
+            "quá trình": "过程",
+            "hạn chế": "局限",
+            "nhóm": "群体",
+            "người cao tuổi": "老年人",
+            "sự chênh lệch": "差距",
+            "công nghệ": "技术",
+            "rủi ro": "风险",
+            "an ninh mạng": "网络安全",
+            "lừa đảo": "诈骗",
+            "thách thức": "挑战",
+            "tổ chức": "组织",
+            "cung ứng": "供应",
+            "kỹ năng": "技能",
+            "khó khăn": "困难",
+            "sự phối hợp": "配合",
+            "Nhà nước": "国家",
+            "công tác": "工作",
+            "tuyên truyền": "宣传",
+            "giáo dục": "教育",
+            "nhận thức": "认知",
+            "chính sách": "政策",
+            "ưu đãi": "优惠",
+            "giải pháp": "解决方案",
+            "thông tin": "信息",
+            "cá nhân": "个人",
+            "khung pháp lý": "法律框架",
+            "cơ chế": "机制",
+            "doanh nghiệp": "企业",
+            "yếu tố": "要素",
+            "then chốt": "关键",
+            "hệ sinh thái": "生态系统",
+            "tương lai": "未来",
+            "chứng kiến": "见证",
+            "mạnh mẽ": "强劲",
+            "sử dụng": "使用",
+            "xử lý": "处理",
+            "dùng": "用",
+            "tăng": "增长",
+            "rút": "取",
+            "giảm": "减少",
+            "thay đổi": "改变",
+            "hoàn toàn": "完全",
+            "cải thiện": "改善",
+            "đáng kể": "显著",
+            "sở hữu": "拥有",
+            "đạt": "达到",
+            "đóng": "担任",
+            "quan trọng": "重要",
+            "mở rộng": "扩大",
+            "triển khai": "展开",
+            "tạo": "创造",
+            "kết nối": "连接",
+            "giúp": "帮助",
+            "đơn giản hóa": "简化",
+            "trực tuyến": "在线",
+            "nâng cao": "提高",
+            "tồn tại": "存在",
+            "phổ biến": "普及",
+            "đầu tư": "投资",
+            "đầy đủ": "充分",
+            "không đồng đều": "不均衡",
+            "khắc phục": "克服",
+            "cần": "需要",
+            "đồng bộ": "同步",
+            "đẩy mạnh": "推动",
+            "khuyến khích": "鼓励",
+            "áp dụng": "应用",
+            "hiện đại": "现代",
+            "hướng dẫn": "指导",
+            "bảo vệ": "保护",
+            "hoàn thiện": "完善",
+            "chia sẻ": "共享",
+            "minh bạch": "透明",
+            "thuận tiện": "便利"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai/không đúng ngữ pháp?",
+                "options": [
+                    "Việt Nam đã chứng kiến bước chuyển dịch mạnh mẽ từ việc sử dụng tiền mặt sang các hình thức thanh toán điện tử.",
+                    "Sự bùng nổ của thanh toán qua mã QR cùng với sự phát triển của Internet và thiết bị di động đã thay đổi hoàn toàn thói quen tiêu dùng.",
+                    "Dịch vụ Mobile Money đóng vai trò quan trọng trong việc mở rộng khả năng tiếp cận tài chính tại các vùng nông thôn và vùng sâu, vùng xa.",
+                    "Việc triển khai Đề án 06 tạo nên bước đột phá khi kết nối hệ thống ngân hàng với Cơ sở dữ liệu quốc gia về dân cư đã giúp đơn giản hóa thủ tục."
+                ],
+                "correct": "Việc triển khai Đề án 06 tạo nên bước đột phá khi kết nối hệ thống ngân hàng với Cơ sở dữ liệu quốc gia về dân cư đã giúp đơn giản hóa thủ tục."
+            },
+            {
+                "question": "Theo bài đọc, hệ thống thanh toán đã xử lý bao nhiêu giao dịch không dùng tiền mặt trong năm 2025?",
+                "options": [
+                    "Khoảng 87% tổng số giao dịch",
+                    "Gần 18 tỷ giao dịch",
+                    "Tăng hơn 24% so với năm trước",
+                    "Hơn 18 tỷ giao dịch"
+                ],
+                "correct": "Gần 18 tỷ giao dịch"
+            },
+            {
+                "question": "Đâu là một trong những thách thức lớn được nhắc đến trong quá trình chuyển đổi số tại Việt Nam?",
+                "options": [
+                    "Người dân không sở hữu thiết bị di động",
+                    "Sự chênh lệch về hạ tầng công nghệ giữa các vùng miền",
+                    "Tỷ lệ người trưởng thành có tài khoản ngân hàng quá thấp",
+                    "Sự thiếu hụt các dịch vụ Mobile Money"
+                ],
+                "correct": "Sự chênh lệch về hạ tầng công nghệ giữa các vùng miền"
+            },
+            {
+                "question": "Từ “đột phá” trong đoạn hai có thể được hiểu là gì?",
+                "options": [
+                    "Sự thay đổi mang tính chất tiêu cực",
+                    "Một bước tiến quan trọng tạo ra sự thay đổi lớn",
+                    "Việc kết nối dữ liệu giữa các ngân hàng với nhau",
+                    "Sự gia tăng số lượng tài khoản ngân hàng"
+                ],
+                "correct": "Một bước tiến quan trọng tạo ra sự thay đổi lớn"
+            },
+            {
+                "question": "Nếu việc xác thực sinh trắc học được áp dụng rộng rãi, kết quả trực tiếp nào sẽ xảy ra theo nội dung bài đọc?",
+                "options": [
+                    "Người cao tuổi sẽ không còn dùng tiền mặt",
+                    "Độ an toàn và bảo mật cho người dùng được nâng cao",
+                    "Tất cả các rủi ro về an ninh mạng sẽ bị loại bỏ hoàn toàn",
+                    "Hạ tầng công nghệ tại các vùng sâu vùng xa sẽ được cải thiện"
+                ],
+                "correct": "Độ an toàn và bảo mật cho người dùng được nâng cao"
+            },
+            {
+                "question": "Cụm từ “hệ sinh thái thanh toán” trong đoạn cuối hàm ý điều gì?",
+                "options": [
+                    "Một môi trường kỹ thuật số nơi các thành phần phối hợp để vận hành hoạt động thanh toán hiệu quả",
+                    "Một khu vực địa lý được quy hoạch riêng cho các giao dịch tài chính",
+                    "Tập hợp các máy ATM và thiết bị rút tiền tự động trên cả nước",
+                    "Một hệ thống phần mềm chỉ dành riêng cho các doanh nghiệp lớn"
+                ],
+                "correct": "Một môi trường kỹ thuật số nơi các thành phần phối hợp để vận hành hoạt động thanh toán hiệu quả"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai/không đúng ngữ pháp?",
+                "options": [
+                    "Nhà nước cần đẩy mạnh công tác tuyên truyền, giáo dục tài chính nhằm thay đổi nhận thức của người dân.",
+                    "Các ngân hàng cần đầu tư mạnh mẽ hơn vào hạ tầng công nghệ và áp dụng các giải pháp bảo mật hiện đại.",
+                    "Thói quen dùng tiền mặt của người dân, đặc biệt là nhóm người cao tuổi, vẫn còn rất phổ biến.",
+                    "Để khắc phục những khó khăn trên, cần có sự phối hợp đồng bộ từ nhiều phía để giải quyết các vấn đề."
+                ],
+                "correct": "Để khắc phục những khó khăn trên, cần có sự phối hợp đồng bộ từ nhiều phía để giải quyết các vấn đề."
+            },
+            {
+                "question": "Đến cuối tháng 9/2025, tỷ lệ người trưởng thành sở hữu tài khoản ngân hàng tại Việt Nam là bao nhiêu?",
+                "options": [
+                    "Khoảng 24%",
+                    "Gần 18 tỷ người",
+                    "Khoảng 87%",
+                    "Hơn 24%"
+                ],
+                "correct": "Khoảng 87%"
+            },
+            {
+                "question": "Đâu là đặc điểm của nhóm người cao tuổi trong bối cảnh thanh toán điện tử hiện nay?",
+                "options": [
+                    "Là nhóm đối tượng sử dụng Mobile Money nhiều nhất",
+                    "Có thói quen dùng tiền mặt vẫn còn rất phổ biến",
+                    "Đã thay đổi hoàn toàn thói quen tiêu dùng",
+                    "Là nhóm đối tượng đầu tư mạnh mẽ vào hạ tầng công nghệ"
+                ],
+                "correct": "Có thói quen dùng tiền mặt vẫn còn rất phổ biến"
+            },
+            {
+                "question": "Từ “then chốt” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Quan trọng nhất",
+                    "Tạm thời",
+                    "Phức tạp",
+                    "Cơ bản"
+                ],
+                "correct": "Quan trọng nhất"
+            },
+            {
+                "question": "Tại sao việc triển khai Đề án 06 lại được coi là bước đột phá?",
+                "options": [
+                    "Vì nó giúp tăng số lượng máy ATM trên cả nước",
+                    "Vì nó kết nối hệ thống ngân hàng với Cơ sở dữ liệu quốc gia về dân cư",
+                    "Vì nó giúp người dân rút tiền mặt nhanh chóng hơn",
+                    "Vì nó làm giảm tỷ lệ người sở hữu tài khoản ngân hàng"
+                ],
+                "correct": "Vì nó kết nối hệ thống ngân hàng với Cơ sở dữ liệu quốc gia về dân cư"
+            },
+            {
+                "question": "Cụm từ “kỹ năng sử dụng công nghệ của người dân chưa đồng đều” trong bài đọc hàm ý điều gì?",
+                "options": [
+                    "Người dân ở các vùng miền có trình độ tiếp cận và thao tác công nghệ khác biệt nhau",
+                    "Tất cả người dân đều đã thành thạo việc sử dụng Internet",
+                    "Công nghệ hiện nay quá đơn giản nên ai cũng có thể sử dụng",
+                    "Người dân không muốn học cách sử dụng các thiết bị di động"
+                ],
+                "correct": "Người dân ở các vùng miền có trình độ tiếp cận và thao tác công nghệ khác biệt nhau"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
