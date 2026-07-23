@@ -2883,5 +2883,266 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Giới trẻ và xu hướng tiêu dùng bền vững trong cuộc sống hiện đại",
+        "text": "Ngày nay, xu hướng tiêu dùng bền vững không còn dừng lại ở những lời kêu gọi mang tính hình thức mà đã trở thành tiêu chí lựa chọn mua sắm và phong cách sống của đông đảo người trẻ. Từ góc độ hành vi, sự chuyển mình này được thể hiện rõ qua việc giới trẻ ưu tiên các sản phẩm thân thiện với môi trường, có nguồn gốc tự nhiên và ít gây hại đến hệ sinh thái. Không khó để bắt gặp hình ảnh các bạn trẻ mang theo bình nước cá nhân, sử dụng túi vải thay cho túi nilon, hoặc ủng hộ những thương hiệu có cam kết bảo vệ môi trường. Các nền tảng mạng xã hội như TikTok hay Instagram đang lan tỏa mạnh mẽ thông điệp sống xanh, nơi các influencer chia sẻ kinh nghiệm tiêu dùng bền vững và cách tái chế đồ cũ.\n\nNguyễn Thùy Linh, một sinh viên tại Hà Nội, chia sẻ rằng trước đây cô chỉ quan tâm đến giá cả và sự tiện lợi. Tuy nhiên, sau khi tham gia các dự án cộng đồng, cô nhận ra mỗi quyết định mua sắm đều để lại dấu vết môi trường. Giờ đây, cô luôn ưu tiên mua đồ tái chế và mỹ phẩm không thử nghiệm trên động vật. Cô tin rằng nếu mỗi người trẻ thay đổi thói quen, tác động tích cực sẽ rất lớn.\n\nDù vậy, việc mua sắm trực tuyến phát triển mạnh mẽ cũng đặt ra nhiều thách thức. Theo Hiệp hội Thương mại điện tử Việt Nam, ngành bán lẻ trực tuyến đã tạo ra hàng trăm nghìn tấn rác thải từ bao bì mỗi năm. Do đó, nhu cầu về các giải pháp đóng gói xanh từ các sàn thương mại điện tử trở nên vô cùng cấp thiết. Đáp ứng kỳ vọng này, nhiều doanh nghiệp lớn tại Việt Nam đã bắt đầu xanh hóa quy trình sản xuất. Các công ty như Vinamilk hay Nestlé đang áp dụng mô hình nông nghiệp tái tạo, sử dụng năng lượng sạch và chuyển đổi sang bao bì có thể tái chế. Những động thái này cho thấy doanh nghiệp đang nỗ lực bắt kịp xu hướng và đáp ứng trách nhiệm xã hội.\n\nBên cạnh đó, sự ủng hộ từ chính sách của Nhà nước đóng vai trò quan trọng trong việc thúc đẩy mô hình kinh tế tuần hoàn. Tuy nhiên, để các chính sách đi vào thực tiễn, cần sự phối hợp giữa cơ quan chức năng, doanh nghiệp và đặc biệt là sự chủ động của giới trẻ. Phạm Duy Anh, một nhân viên truyền thông tại TP.HCM, cho rằng tiêu dùng bền vững là lối sống có trách nhiệm với tương lai. Dù vẫn đối mặt với rào cản về giá thành hay nguồn cung, nhưng thế hệ trẻ Việt Nam đang chứng minh rằng mỗi lựa chọn tiêu dùng cá nhân đều mang ý nghĩa quan trọng đối với sự phát triển bền vững của cộng đồng và hành tinh chúng ta.",
+        "dictionary": {
+            "ngày nay": "如今",
+            "xu hướng": "趋势",
+            "tiêu dùng": "消费",
+            "bền vững": "可持续",
+            "dừng lại": "停止",
+            "lời kêu gọi": "号召",
+            "hình thức": "形式",
+            "tiêu chí": "标准",
+            "lựa chọn": "选择",
+            "mua sắm": "购物",
+            "phong cách sống": "生活方式",
+            "đông đảo": "广大",
+            "người trẻ": "年轻人",
+            "góc độ": "角度",
+            "hành vi": "行为",
+            "chuyển mình": "转型",
+            "thể hiện": "体现",
+            "giới trẻ": "年轻人",
+            "ưu tiên": "优先",
+            "sản phẩm": "产品",
+            "thân thiện": "友好",
+            "môi trường": "环境",
+            "nguồn gốc": "来源",
+            "tự nhiên": "自然",
+            "gây hại": "造成伤害",
+            "hệ sinh thái": "生态系统",
+            "khó": "难",
+            "bắt gặp": "遇见",
+            "hình ảnh": "形象",
+            "bình nước": "水瓶",
+            "cá nhân": "个人",
+            "sử dụng": "使用",
+            "túi vải": "布袋",
+            "túi nilon": "塑料袋",
+            "ủng hộ": "支持",
+            "thương hiệu": "品牌",
+            "cam kết": "承诺",
+            "bảo vệ": "保护",
+            "nền tảng": "平台",
+            "mạng xã hội": "社交媒体",
+            "lan tỏa": "传播",
+            "mạnh mẽ": "强烈",
+            "thông điệp": "信息",
+            "sống xanh": "绿色生活",
+            "chia sẻ": "分享",
+            "kinh nghiệm": "经验",
+            "tái chế": "回收",
+            "đồ cũ": "旧物",
+            "sinh viên": "学生",
+            "Hà Nội": "河内",
+            "quan tâm": "关心",
+            "giá cả": "价格",
+            "tiện lợi": "便利",
+            "tham gia": "参加",
+            "dự án": "项目",
+            "cộng đồng": "社区",
+            "nhận ra": "意识到",
+            "quyết định": "决定",
+            "dấu vết": "痕迹",
+            "mỹ phẩm": "化妆品",
+            "thử nghiệm": "试验",
+            "động vật": "动物",
+            "tin": "相信",
+            "thay đổi": "改变",
+            "thói quen": "习惯",
+            "tác động": "影响",
+            "tích cực": "积极",
+            "lớn": "大",
+            "trực tuyến": "在线",
+            "phát triển": "发展",
+            "thách thức": "挑战",
+            "Hiệp hội": "协会",
+            "Thương mại điện tử": "电子商务",
+            "Việt Nam": "越南",
+            "ngành": "行业",
+            "bán lẻ": "零售",
+            "tạo ra": "创造",
+            "hàng trăm nghìn": "数十万",
+            "tấn": "吨",
+            "rác thải": "垃圾",
+            "bao bì": "包装",
+            "năm": "年",
+            "nhu cầu": "需求",
+            "giải pháp": "解决方案",
+            "đóng gói": "包装",
+            "xanh": "绿色",
+            "sàn": "平台",
+            "cấp thiết": "紧迫",
+            "đáp ứng": "满足",
+            "kỳ vọng": "期望",
+            "doanh nghiệp": "企业",
+            "bắt đầu": "开始",
+            "hóa": "化",
+            "quy trình": "流程",
+            "sản xuất": "生产",
+            "công ty": "公司",
+            "áp dụng": "应用",
+            "mô hình": "模型",
+            "nông nghiệp": "农业",
+            "tái tạo": "再生",
+            "năng lượng": "能源",
+            "sạch": "清洁",
+            "động thái": "举动",
+            "nỗ lực": "努力",
+            "bắt kịp": "赶上",
+            "trách nhiệm": "责任",
+            "xã hội": "社会",
+            "chính sách": "政策",
+            "Nhà nước": "国家",
+            "đóng vai trò": "扮演角色",
+            "quan trọng": "重要",
+            "thúc đẩy": "推动",
+            "kinh tế": "经济",
+            "tuần hoàn": "循环",
+            "thực tiễn": "实践",
+            "phối hợp": "配合",
+            "cơ quan": "机关",
+            "chức năng": "职能",
+            "chủ động": "主动",
+            "nhân viên": "职员",
+            "truyền thông": "传媒",
+            "TP.HCM": "胡志明市",
+            "lối sống": "生活方式",
+            "tương lai": "未来",
+            "đối mặt": "面对",
+            "rào cản": "障碍",
+            "nguồn cung": "供应源",
+            "thế hệ": "一代",
+            "chứng minh": "证明",
+            "ý nghĩa": "意义",
+            "hành tinh": "星球"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Giới trẻ ưu tiên các sản phẩm thân thiện với môi trường và có nguồn gốc tự nhiên.",
+                    "Mỗi người trẻ thay đổi thói quen, tác động tích cực sẽ rất lớn.",
+                    "Ngành bán lẻ trực tuyến đã tạo ra hàng trăm nghìn tấn rác thải từ bao bì mỗi năm.",
+                    "Tiêu dùng bền vững không còn dừng lại ở những lời kêu gọi mang tính hình thức."
+                ],
+                "correct": "Mỗi người trẻ thay đổi thói quen, tác động tích cực sẽ rất lớn."
+            },
+            {
+                "question": "Nguyễn Thùy Linh hiện đang là sinh viên tại đâu?",
+                "options": [
+                    "TP.HCM",
+                    "Hà Nội",
+                    "Đà Nẵng",
+                    "Cần Thơ"
+                ],
+                "correct": "Hà Nội"
+            },
+            {
+                "question": "Theo bài đọc, các doanh nghiệp như Vinamilk hay Nestlé đang thực hiện hành động gì?",
+                "options": [
+                    "Tăng cường sản xuất bao bì nilon để giảm chi phí vận chuyển",
+                    "Áp dụng mô hình nông nghiệp tái tạo và sử dụng năng lượng sạch",
+                    "Chỉ tập trung vào việc giảm giá thành sản phẩm để cạnh tranh",
+                    "Ngừng sử dụng các nền tảng thương mại điện tử để bảo vệ môi trường"
+                ],
+                "correct": "Áp dụng mô hình nông nghiệp tái tạo và sử dụng năng lượng sạch"
+            },
+            {
+                "question": "Từ “xanh hóa” trong đoạn 3 có thể được hiểu là gì?",
+                "options": [
+                    "Sơn màu xanh lên các sản phẩm của doanh nghiệp",
+                    "Thay đổi quy trình sản xuất để thân thiện với môi trường hơn",
+                    "Tăng cường trồng cây xanh tại các khu công nghiệp",
+                    "Sử dụng các loại hóa chất có màu xanh trong sản xuất"
+                ],
+                "correct": "Thay đổi quy trình sản xuất để thân thiện với môi trường hơn"
+            },
+            {
+                "question": "Vì sao ngành bán lẻ trực tuyến lại đặt ra thách thức cho môi trường?",
+                "options": [
+                    "Vì người tiêu dùng mua sắm quá nhiều hàng hóa không cần thiết",
+                    "Vì các doanh nghiệp không muốn thay đổi quy trình sản xuất",
+                    "Vì ngành này tạo ra hàng trăm nghìn tấn rác thải từ bao bì mỗi năm",
+                    "Vì các sàn thương mại điện tử không có chính sách bảo vệ môi trường"
+                ],
+                "correct": "Vì ngành này tạo ra hàng trăm nghìn tấn rác thải từ bao bì mỗi năm"
+            },
+            {
+                "question": "Cụm từ “dấu vết môi trường” trong chia sẻ của Nguyễn Thùy Linh mang hàm ý gì?",
+                "options": [
+                    "Những vết bẩn do sản phẩm để lại trên bề mặt đồ vật",
+                    "Những tác động tiêu cực mà hoạt động tiêu dùng gây ra cho thiên nhiên",
+                    "Những dấu hiệu nhận biết một sản phẩm đạt chuẩn chất lượng",
+                    "Những ghi chép về lịch sử mua sắm của cá nhân trên mạng xã hội"
+                ],
+                "correct": "Những tác động tiêu cực mà hoạt động tiêu dùng gây ra cho thiên nhiên"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Sự ủng hộ từ chính sách của Nhà nước đóng vai trò quan trọng.",
+                    "Nhu cầu về các giải pháp đóng gói xanh trở nên vô cùng cấp thiết.",
+                    "Các nền tảng mạng xã hội lan tỏa mạnh mẽ thông điệp sống xanh.",
+                    "Để các chính sách đi vào thực tiễn, sự phối hợp giữa cơ quan chức năng."
+                ],
+                "correct": "Để các chính sách đi vào thực tiễn, sự phối hợp giữa cơ quan chức năng."
+            },
+            {
+                "question": "Ai là người khẳng định tiêu dùng bền vững là lối sống có trách nhiệm với tương lai?",
+                "options": [
+                    "Nguyễn Thùy Linh",
+                    "Phạm Duy Anh",
+                    "Đại diện Hiệp hội Thương mại điện tử Việt Nam",
+                    "Các influencer trên TikTok"
+                ],
+                "correct": "Phạm Duy Anh"
+            },
+            {
+                "question": "Theo bài đọc, hành động nào sau đây thể hiện sự chuyển mình trong hành vi của giới trẻ?",
+                "options": [
+                    "Ưu tiên các sản phẩm có giá thành rẻ nhất trên thị trường",
+                    "Sử dụng túi vải thay cho túi nilon",
+                    "Mua sắm trực tuyến để tiết kiệm thời gian",
+                    "Chia sẻ kinh nghiệm tái chế đồ cũ trên mạng xã hội"
+                ],
+                "correct": "Sử dụng túi vải thay cho túi nilon"
+            },
+            {
+                "question": "Từ “động thái” trong đoạn 3 có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Thái độ",
+                    "Hành động",
+                    "Trạng thái",
+                    "Suy nghĩ"
+                ],
+                "correct": "Hành động"
+            },
+            {
+                "question": "Nếu các chính sách của Nhà nước không nhận được sự phối hợp từ doanh nghiệp và giới trẻ thì điều gì sẽ xảy ra?",
+                "options": [
+                    "Mô hình kinh tế tuần hoàn sẽ phát triển nhanh chóng hơn",
+                    "Các chính sách khó có thể đi vào thực tiễn",
+                    "Doanh nghiệp sẽ tự động xanh hóa quy trình sản xuất",
+                    "Giới trẻ sẽ không còn quan tâm đến tiêu dùng bền vững"
+                ],
+                "correct": "Các chính sách khó có thể đi vào thực tiễn"
+            },
+            {
+                "question": "Câu “tiêu dùng bền vững không còn dừng lại ở những lời kêu gọi mang tính hình thức” gợi mở điều gì?",
+                "options": [
+                    "Việc tiêu dùng bền vững đã trở thành hành động thực tế trong đời sống",
+                    "Các lời kêu gọi về môi trường hiện nay không còn giá trị",
+                    "Giới trẻ chỉ đang làm theo phong trào một cách đối phó",
+                    "Các doanh nghiệp đang ép buộc người tiêu dùng phải sống xanh"
+                ],
+                "correct": "Việc tiêu dùng bền vững đã trở thành hành động thực tế trong đời sống"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
