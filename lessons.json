@@ -3393,5 +3393,264 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Ứng dụng công nghệ thông tin trong y tế và chẩn đoán nha khoa hiện đại",
+        "text": "Việc ứng dụng công nghệ thông tin trong y tế đang trở thành một yêu cầu cấp thiết tại Việt Nam nhằm xây dựng nền y tế hiện đại. Trong đó, lĩnh vực chẩn đoán hình ảnh đóng vai trò quan trọng, giúp bác sĩ phát hiện sớm các bệnh lý và đưa ra phương pháp điều trị hiệu quả. Nhờ sự hỗ trợ của các thiết bị kỹ thuật số và phần mềm tiên tiến, chất lượng hình ảnh y tế ngày càng được nâng cao, cho phép các chuyên gia kết nối, hội chẩn từ xa một cách dễ dàng và chính xác.\n\nĐáp ứng nhu cầu chăm sóc răng miệng ngày càng cao, một hệ thống ứng dụng trí tuệ nhân tạo (AI) đã được phát triển để hỗ trợ bác sĩ chẩn đoán bệnh viêm quanh cuống từ ảnh X-quang. Đây là kết quả nghiên cứu của Phó giáo sư, Tiến sĩ Lê Hoàng Sơn và các cộng sự tại Viện Công nghệ thông tin, Đại học Quốc gia Hà Nội. Hệ thống này sử dụng các mô hình học sâu để phân tích ảnh X-quang cận chóp, giúp bác sĩ nhận diện vùng bệnh một cách nhanh chóng và đáng tin cậy. Với giao diện thân thiện, phần mềm không chỉ hỗ trợ việc chẩn đoán mà còn giúp quản lý hồ sơ bệnh nhân, theo dõi lịch sử khám và lưu trữ dữ liệu một cách an toàn, khoa học.\n\nQua quá trình thử nghiệm tại Viện Đào tạo Răng Hàm Mặt thuộc Trường Đại học Y Hà Nội, hệ thống đã đạt kết quả rất khả quan với độ nhạy và độ đặc hiệu trên 90%. Điều này khẳng định tiềm năng lớn của việc ứng dụng công nghệ 4.0 trong y tế, giúp giảm bớt áp lực cho bác sĩ và nâng cao chất lượng dịch vụ chăm sóc sức khỏe cho người dân. Các chuyên gia đánh giá cao ý nghĩa thực tiễn của phần mềm này, xem đây là bước tiến quan trọng trong việc đưa các nghiên cứu từ phòng thí nghiệm ra thị trường.\n\nHiện nay, chương trình nghiên cứu về y tế thông minh đang được đẩy mạnh nhằm thực hiện mục tiêu chuyển đổi số quốc gia giai đoạn 2019 - 2025. Việc tổ chức các hội thảo khoa học quốc tế về y tế thông minh không chỉ tạo cơ hội trao đổi kinh nghiệm mà còn góp phần kết nối các nhà khoa học với thực tế lâm sàng. Những thành tựu này là minh chứng cho tinh thần đổi mới sáng tạo, trách nhiệm quốc gia và tầm nhìn dài hạn của Đại học Quốc gia Hà Nội trong việc ứng dụng công nghệ để nâng cao chất lượng cuộc sống, đóng góp vào sự phát triển bền vững của nền y tế nước nhà trong tương lai.",
+        "dictionary": {
+            "ứng dụng": "应用",
+            "công nghệ": "技术",
+            "thông tin": "信息",
+            "y tế": "医疗",
+            "trở thành": "成为",
+            "yêu cầu": "要求",
+            "cấp thiết": "迫切",
+            "Việt Nam": "越南",
+            "xây dựng": "建设",
+            "nền": "基础",
+            "hiện đại": "现代",
+            "lĩnh vực": "领域",
+            "chẩn đoán": "诊断",
+            "hình ảnh": "影像",
+            "đóng": "担任",
+            "vai trò": "角色",
+            "quan trọng": "重要",
+            "giúp": "帮助",
+            "bác sĩ": "医生",
+            "phát hiện": "发现",
+            "sớm": "早",
+            "bệnh lý": "病理",
+            "đưa ra": "提出",
+            "phương pháp": "方法",
+            "điều trị": "治疗",
+            "hiệu quả": "有效",
+            "hỗ trợ": "支持",
+            "thiết bị": "设备",
+            "kỹ thuật số": "数字",
+            "phần mềm": "软件",
+            "tiên tiến": "先进",
+            "chất lượng": "质量",
+            "nâng cao": "提高",
+            "cho phép": "允许",
+            "chuyên gia": "专家",
+            "kết nối": "连接",
+            "hội chẩn": "会诊",
+            "từ xa": "远程",
+            "dễ dàng": "容易",
+            "chính xác": "准确",
+            "đáp ứng": "满足",
+            "nhu cầu": "需求",
+            "chăm sóc": "护理",
+            "răng miệng": "口腔",
+            "hệ thống": "系统",
+            "trí tuệ nhân tạo": "人工智能",
+            "phát triển": "发展",
+            "viêm quanh cuống": "根尖周炎",
+            "ảnh": "影像",
+            "X-quang": "X光",
+            "kết quả": "结果",
+            "nghiên cứu": "研究",
+            "Phó giáo sư": "副教授",
+            "Tiến sĩ": "博士",
+            "Lê Hoàng Sơn": "黎黄山",
+            "cộng sự": "同事",
+            "Viện": "院",
+            "Đại học Quốc gia Hà Nội": "河内国家大学",
+            "mô hình": "模型",
+            "học sâu": "深度学习",
+            "phân tích": "分析",
+            "cận chóp": "根尖",
+            "nhận diện": "识别",
+            "vùng": "区域",
+            "nhanh chóng": "迅速",
+            "đáng tin cậy": "可靠",
+            "giao diện": "界面",
+            "thân thiện": "友好",
+            "quản lý": "管理",
+            "hồ sơ": "档案",
+            "bệnh nhân": "病人",
+            "theo dõi": "追踪",
+            "lịch sử": "历史",
+            "khám": "检查",
+            "lưu trữ": "存储",
+            "dữ liệu": "数据",
+            "an toàn": "安全",
+            "khoa học": "科学",
+            "quá trình": "过程",
+            "thử nghiệm": "试验",
+            "Đào tạo": "培训",
+            "Răng Hàm Mặt": "口腔颌面",
+            "Trường": "学校",
+            "đạt": "达到",
+            "khả quan": "乐观",
+            "độ nhạy": "灵敏度",
+            "độ đặc hiệu": "特异度",
+            "khẳng định": "肯定",
+            "tiềm năng": "潜力",
+            "lớn": "大",
+            "giảm bớt": "减轻",
+            "áp lực": "压力",
+            "dịch vụ": "服务",
+            "sức khỏe": "健康",
+            "người dân": "人民",
+            "đánh giá": "评价",
+            "ý nghĩa": "意义",
+            "thực tiễn": "实践",
+            "bước tiến": "进步",
+            "phòng thí nghiệm": "实验室",
+            "thị trường": "市场",
+            "chương trình": "程序",
+            "thông minh": "智能",
+            "đẩy mạnh": "推进",
+            "thực hiện": "执行",
+            "mục tiêu": "目标",
+            "chuyển đổi số": "数字化转型",
+            "quốc gia": "国家",
+            "giai đoạn": "阶段",
+            "tổ chức": "组织",
+            "hội thảo": "研讨会",
+            "cơ hội": "机会",
+            "trao đổi": "交流",
+            "kinh nghiệm": "经验",
+            "góp phần": "贡献",
+            "thực tế": "实际",
+            "lâm sàng": "临床",
+            "thành tựu": "成就",
+            "minh chứng": "证明",
+            "tinh thần": "精神",
+            "đổi mới": "创新",
+            "sáng tạo": "创造",
+            "trách nhiệm": "责任",
+            "tầm nhìn": "视野",
+            "dài hạn": "长期",
+            "cuộc sống": "生活",
+            "đóng góp": "贡献",
+            "bền vững": "可持续",
+            "tương lai": "未来"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Việc ứng dụng công nghệ thông tin trong y tế đang trở thành một yêu cầu cấp thiết tại Việt Nam.",
+                    "Hệ thống sử dụng các mô hình học sâu để phân tích ảnh X-quang cận chóp một cách nhanh chóng.",
+                    "Các chuyên gia đánh giá cao ý nghĩa thực tiễn của phần mềm này, xem đây là bước tiến quan trọng.",
+                    "Hệ thống ứng dụng trí tuệ nhân tạo được phát triển bởi Phó giáo sư, Tiến sĩ Lê Hoàng Sơn và các cộng sự tại Viện Công nghệ thông tin, Đại học Quốc gia Hà Nội."
+                ],
+                "correct": "Hệ thống ứng dụng trí tuệ nhân tạo được phát triển bởi Phó giáo sư, Tiến sĩ Lê Hoàng Sơn và các cộng sự tại Viện Công nghệ thông tin, Đại học Quốc gia Hà Nội."
+            },
+            {
+                "question": "Hệ thống ứng dụng trí tuệ nhân tạo (AI) được phát triển nhằm mục đích hỗ trợ bác sĩ chẩn đoán bệnh gì?",
+                "options": [
+                    "Bệnh ung bướu",
+                    "Bệnh viêm quanh cuống",
+                    "Bệnh răng hàm mặt tổng quát",
+                    "Bệnh lý chẩn đoán hình ảnh"
+                ],
+                "correct": "Bệnh viêm quanh cuống"
+            },
+            {
+                "question": "Đâu là đơn vị đã thực hiện quá trình thử nghiệm hệ thống ứng dụng trí tuệ nhân tạo?",
+                "options": [
+                    "Viện Công nghệ thông tin",
+                    "Đại học Quốc gia Hà Nội",
+                    "Viện Đào tạo Răng Hàm Mặt thuộc Trường Đại học Y Hà Nội",
+                    "Bộ Y tế Việt Nam"
+                ],
+                "correct": "Viện Đào tạo Răng Hàm Mặt thuộc Trường Đại học Y Hà Nội"
+            },
+            {
+                "question": "Theo bài đọc, hệ thống ứng dụng trí tuệ nhân tạo có đặc điểm nổi bật nào sau đây?",
+                "options": [
+                    "Sử dụng mô hình học sâu để phân tích ảnh X-quang cận chóp",
+                    "Chỉ tập trung vào việc lưu trữ dữ liệu bệnh nhân",
+                    "Được thiết kế dành riêng cho các chuyên gia hội chẩn từ xa",
+                    "Có khả năng thay thế hoàn toàn bác sĩ trong việc điều trị"
+                ],
+                "correct": "Sử dụng mô hình học sâu để phân tích ảnh X-quang cận chóp"
+            },
+            {
+                "question": "Từ “thân thiện” trong đoạn 2 có thể được hiểu là gì?",
+                "options": [
+                    "Có tính cách hòa đồng và dễ mến với người dùng",
+                    "Dễ dàng sử dụng và thuận tiện cho người vận hành",
+                    "Có khả năng kết nối bạn bè thông qua mạng xã hội",
+                    "Được thiết kế theo phong cách tối giản và hiện đại"
+                ],
+                "correct": "Dễ dàng sử dụng và thuận tiện cho người vận hành"
+            },
+            {
+                "question": "Từ “thành tựu” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Thất bại",
+                    "Kết quả",
+                    "Kế hoạch",
+                    "Thử nghiệm"
+                ],
+                "correct": "Kết quả"
+            },
+            {
+                "question": "Nếu độ nhạy và độ đặc hiệu của hệ thống đạt dưới 50%, thì điều này có ý nghĩa gì đối với nghiên cứu?",
+                "options": [
+                    "Hệ thống đã đạt kết quả rất khả quan",
+                    "Hệ thống cần được đưa ra thị trường ngay lập tức",
+                    "Hệ thống chưa đạt yêu cầu về độ tin cậy trong chẩn đoán",
+                    "Hệ thống đã hoàn thành mục tiêu chuyển đổi số quốc gia"
+                ],
+                "correct": "Hệ thống chưa đạt yêu cầu về độ tin cậy trong chẩn đoán"
+            },
+            {
+                "question": "Vì sao việc ứng dụng trí tuệ nhân tạo lại giúp giảm bớt áp lực cho bác sĩ?",
+                "options": [
+                    "Vì nó giúp bác sĩ không cần phải làm việc tại bệnh viện",
+                    "Vì nó hỗ trợ nhận diện vùng bệnh nhanh chóng và quản lý hồ sơ hiệu quả",
+                    "Vì nó thay thế bác sĩ thực hiện các ca phẫu thuật phức tạp",
+                    "Vì nó giúp tăng số lượng bệnh nhân đến khám mỗi ngày"
+                ],
+                "correct": "Vì nó hỗ trợ nhận diện vùng bệnh nhanh chóng và quản lý hồ sơ hiệu quả"
+            },
+            {
+                "question": "Cụm từ “đưa các nghiên cứu từ phòng thí nghiệm ra thị trường” mang hàm ý gì?",
+                "options": [
+                    "Chuyển đổi các kết quả nghiên cứu lý thuyết thành sản phẩm ứng dụng thực tế",
+                    "Bán các thiết bị thí nghiệm cho các cửa hàng thương mại",
+                    "Di chuyển địa điểm làm việc của các nhà khoa học đến các trung tâm thương mại",
+                    "Thay đổi mục đích nghiên cứu từ khoa học sang kinh doanh thuần túy"
+                ],
+                "correct": "Chuyển đổi các kết quả nghiên cứu lý thuyết thành sản phẩm ứng dụng thực tế"
+            },
+            {
+                "question": "Việc tổ chức các hội thảo khoa học quốc tế về y tế thông minh được xem là có ý nghĩa gì?",
+                "options": [
+                    "Để quảng bá hình ảnh của Đại học Quốc gia Hà Nội ra thế giới",
+                    "Để tạo cầu nối giữa lý thuyết khoa học và thực tiễn lâm sàng",
+                    "Để tăng doanh thu cho các đơn vị tổ chức sự kiện",
+                    "Để thay thế cho các chương trình đào tạo bác sĩ tại trường đại học"
+                ],
+                "correct": "Để tạo cầu nối giữa lý thuyết khoa học và thực tiễn lâm sàng"
+            },
+            {
+                "question": "Đâu là hoạt động được nhắc đến như một phần của mục tiêu chuyển đổi số quốc gia giai đoạn 2019 - 2025?",
+                "options": [
+                    "Nâng cao chất lượng hình ảnh y tế bằng thiết bị kỹ thuật số",
+                    "Đẩy mạnh chương trình nghiên cứu về y tế thông minh",
+                    "Xây dựng thêm nhiều bệnh viện chuyên khoa Răng Hàm Mặt",
+                    "Tổ chức các khóa đào tạo bác sĩ tại nước ngoài"
+                ],
+                "correct": "Đẩy mạnh chương trình nghiên cứu về y tế thông minh"
+            },
+            {
+                "question": "Câu nào sau đây mô tả đúng nhất vai trò của lĩnh vực chẩn đoán hình ảnh trong y tế hiện đại?",
+                "options": [
+                    "Là công cụ duy nhất để bác sĩ đưa ra phác đồ điều trị",
+                    "Giúp bác sĩ phát hiện sớm bệnh lý và hỗ trợ điều trị hiệu quả",
+                    "Chỉ phục vụ cho việc lưu trữ hồ sơ bệnh nhân tại các bệnh viện lớn",
+                    "Là lĩnh vực không cần đến sự hỗ trợ của công nghệ thông tin"
+                ],
+                "correct": "Giúp bác sĩ phát hiện sớm bệnh lý và hỗ trợ điều trị hiệu quả"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
