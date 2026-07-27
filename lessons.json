@@ -3924,5 +3924,278 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Vẻ đẹp văn hóa chợ nổi Cái Răng",
+        "text": "Nếu bạn đã từng tham quan những phiên chợ sôi động ở vùng núi phía Bắc, thì chợ nổi miền Nam lại mang đến một cảm giác khác biệt đầy thú vị. Đây là nơi tập trung những nét văn hóa đặc trưng, thu hút đông đảo du khách trong và ngoài nước đến trải nghiệm và mua sắm mỗi năm.\n\nChợ nổi Cái Răng tọa lạc trên sông Cái Răng, cách trung tâm thành phố Cần Thơ khoảng ba mươi phút đi tàu từ bến Ninh Kiều. Chợ đã hình thành từ thời kỳ đường bộ chưa phát triển mạnh, khi người dân chủ yếu di chuyển bằng đường thủy. Ban đầu, đây chỉ là nơi các thuyền buôn nông sản và hàng hóa thiết yếu giao thương với nhau. Theo thời gian, dù hệ thống giao thông đường bộ đã hiện đại hơn, chợ nổi vẫn giữ vững vị thế là điểm gặp gỡ và giao lưu quan trọng của người dân địa phương.\n\nVị trí của chợ nằm ngay ngã ba sông, nơi giao nhau giữa nhánh sông Cái Răng và sông Hậu. Điều này giúp các thuyền bè dễ dàng neo đậu và lưu thông thuận tiện. Bên cạnh đó, việc gần các vựa trái cây lớn và chợ trên bờ đã tạo nên một hệ sinh thái thương mại vô cùng phong phú. Trước đây, mỗi chiếc thuyền thường chỉ chuyên bày bán một loại mặt hàng nông sản nhất định. Tuy nhiên, ngày nay, chợ đã đa dạng hóa sản phẩm, từ các món ăn đặc sản vùng miền đến đồ gia dụng và các nhu yếu phẩm cần thiết cho cuộc sống hằng ngày trên sông.\n\nGiống như nhiều chợ nổi khác tại miền Tây, chợ Cái Răng bắt đầu hoạt động từ rất sớm. Khoảng hai đến ba giờ sáng, các thương lái đã bắt đầu hành trình lấy hàng. Đến khi mặt trời vừa ló dạng lúc năm, sáu giờ sáng, không khí tại đây trở nên sôi động và náo nhiệt hơn bao giờ hết. Đây là thời điểm lý tưởng để du khách chứng kiến nhịp sống chân thực của người dân Nam Bộ. Do không gian trên sông khá hẹp và tiếng sóng nước làm cho việc rao hàng trở nên khó khăn, người bán thường treo sản phẩm lên một cây sào dài gọi là cây \"bẹo\". Phương thức \"treo gì bán nấy\" này không chỉ giúp khách hàng dễ dàng nhận biết hàng hóa mà còn tạo nên bản sắc riêng biệt cho chợ nổi.\n\nVào năm 2016, chợ nổi Cái Răng đã được công nhận là di sản văn hóa phi vật thể quốc gia. Ngoài việc mua bán, du khách còn có cơ hội thưởng thức những buổi biểu diễn đờn ca tài tử ngay trên thuyền. Đối với những ai yêu thích khám phá đời sống sông nước, chợ nổi Cái Răng chắc chắn là một điểm đến không thể bỏ qua trong hành trình tìm hiểu văn hóa Việt Nam.",
+        "dictionary": {
+            "bạn": "您",
+            "tham quan": "参观",
+            "phiên chợ": "集市",
+            "sôi động": "热闹",
+            "vùng núi": "山区",
+            "phía Bắc": "北方",
+            "chợ nổi": "水上市场",
+            "miền Nam": "南方",
+            "cảm giác": "感觉",
+            "khác biệt": "不同",
+            "thú vị": "有趣",
+            "nơi": "地方",
+            "tập trung": "集中",
+            "nét": "特色",
+            "văn hóa": "文化",
+            "đặc trưng": "典型",
+            "thu hút": "吸引",
+            "đông đảo": "众多",
+            "du khách": "游客",
+            "trong": "内",
+            "ngoài nước": "国外",
+            "trải nghiệm": "体验",
+            "mua sắm": "购物",
+            "năm": "年",
+            "Cái Răng": "丐冷",
+            "tọa lạc": "坐落",
+            "sông": "河",
+            "trung tâm": "中心",
+            "thành phố": "城市",
+            "Cần Thơ": "芹苴",
+            "phút": "分钟",
+            "tàu": "船",
+            "bến": "码头",
+            "Ninh Kiều": "宁桥",
+            "hình thành": "形成",
+            "thời kỳ": "时期",
+            "đường bộ": "陆路",
+            "phát triển": "发展",
+            "mạnh": "强",
+            "người dân": "居民",
+            "di chuyển": "移动",
+            "đường thủy": "水路",
+            "ban đầu": "起初",
+            "thuyền": "船",
+            "buôn": "贩卖",
+            "nông sản": "农产品",
+            "hàng hóa": "货物",
+            "thiết yếu": "必需",
+            "giao thương": "贸易",
+            "thời gian": "时间",
+            "hệ thống": "系统",
+            "giao thông": "交通",
+            "hiện đại": "现代",
+            "giữ vững": "保持",
+            "vị thế": "地位",
+            "điểm": "地点",
+            "gặp gỡ": "见面",
+            "giao lưu": "交流",
+            "quan trọng": "重要",
+            "địa phương": "当地",
+            "vị trí": "位置",
+            "ngã ba": "三岔路口",
+            "nhánh": "支流",
+            "Hậu": "后",
+            "thuyền bè": "船只",
+            "dễ dàng": "容易",
+            "neo đậu": "停泊",
+            "lưu thông": "流通",
+            "thuận tiện": "方便",
+            "vựa": "仓库",
+            "trái cây": "水果",
+            "bờ": "岸",
+            "hệ sinh thái": "生态系统",
+            "thương mại": "商业",
+            "phong phú": "丰富",
+            "chiếc": "个",
+            "chuyên": "专门",
+            "bày bán": "摆卖",
+            "loại": "种类",
+            "mặt hàng": "商品",
+            "nhất định": "一定",
+            "ngày nay": "如今",
+            "đa dạng hóa": "多样化",
+            "sản phẩm": "产品",
+            "món ăn": "菜肴",
+            "đặc sản": "特产",
+            "vùng miền": "地区",
+            "đồ gia dụng": "家居用品",
+            "nhu yếu phẩm": "必需品",
+            "cần thiết": "必要",
+            "cuộc sống": "生活",
+            "hằng ngày": "日常",
+            "miền Tây": "西部",
+            "hoạt động": "活动",
+            "sớm": "早",
+            "giờ": "点",
+            "sáng": "早晨",
+            "thương lái": "商贩",
+            "hành trình": "行程",
+            "lấy hàng": "进货",
+            "mặt trời": "太阳",
+            "ló dạng": "露面",
+            "không khí": "空气",
+            "náo nhiệt": "喧闹",
+            "thời điểm": "时刻",
+            "lý tưởng": "理想",
+            "chứng kiến": "见证",
+            "nhịp sống": "生活节奏",
+            "chân thực": "真实",
+            "Nam Bộ": "南部",
+            "không gian": "空间",
+            "hẹp": "窄",
+            "tiếng": "声音",
+            "sóng nước": "波浪",
+            "rao hàng": "叫卖",
+            "khó khăn": "困难",
+            "người bán": "卖方",
+            "treo": "挂",
+            "cây sào": "竹竿",
+            "dài": "长",
+            "bẹo": "标杆",
+            "phương thức": "方式",
+            "khách hàng": "顾客",
+            "nhận biết": "识别",
+            "bản sắc": "特色",
+            "riêng biệt": "独特",
+            "công nhận": "认可",
+            "di sản": "遗产",
+            "phi vật thể": "非物质",
+            "quốc gia": "国家",
+            "mua bán": "买卖",
+            "cơ hội": "机会",
+            "thưởng thức": "欣赏",
+            "buổi": "场",
+            "biểu diễn": "表演",
+            "đờn ca tài tử": "南部弹唱",
+            "yêu thích": "喜爱",
+            "khám phá": "探索",
+            "đời sống": "生活",
+            "sông nước": "水上",
+            "chắc chắn": "肯定",
+            "tìm hiểu": "了解",
+            "Việt Nam": "越南"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Chợ nổi Cái Răng tọa lạc trên sông Cái Răng, cách trung tâm thành phố Cần Thơ khoảng ba mươi phút đi tàu.",
+                    "Vì hệ thống giao thông đường bộ đã hiện đại hơn, chợ nổi vẫn giữ vững vị thế là điểm gặp gỡ quan trọng.",
+                    "Người bán treo sản phẩm lên một cây sào dài gọi là cây “bẹo” để khách hàng dễ dàng nhận biết hàng hóa.",
+                    "Chợ nổi Cái Răng được công nhận là di sản văn hóa phi vật thể quốc gia vào năm 2016."
+                ],
+                "correct": "Vì hệ thống giao thông đường bộ đã hiện đại hơn, chợ nổi vẫn giữ vững vị thế là điểm gặp gỡ quan trọng."
+            },
+            {
+                "question": "Chợ nổi Cái Răng nằm ở vị trí nào?",
+                "options": [
+                    "Nằm tại bến Ninh Kiều của thành phố Cần Thơ",
+                    "Nằm tại ngã ba sông, nơi giao nhau giữa nhánh sông Cái Răng và sông Hậu",
+                    "Nằm cách trung tâm thành phố Cần Thơ khoảng ba mươi phút đi bộ",
+                    "Nằm ở vùng núi phía Bắc nơi có những phiên chợ sôi động"
+                ],
+                "correct": "Nằm tại ngã ba sông, nơi giao nhau giữa nhánh sông Cái Răng và sông Hậu"
+            },
+            {
+                "question": "Thời điểm nào trong ngày được coi là lý tưởng nhất để du khách chứng kiến nhịp sống chân thực tại chợ nổi?",
+                "options": [
+                    "Khoảng hai đến ba giờ sáng khi các thương lái bắt đầu lấy hàng",
+                    "Vào thời điểm mặt trời vừa ló dạng lúc năm, sáu giờ sáng",
+                    "Vào thời điểm chợ bắt đầu hoạt động từ rất sớm",
+                    "Vào thời điểm các thuyền bè đang neo đậu và lưu thông thuận tiện"
+                ],
+                "correct": "Vào thời điểm mặt trời vừa ló dạng lúc năm, sáu giờ sáng"
+            },
+            {
+                "question": "Từ “bẹo” trong đoạn văn có thể được hiểu là gì?",
+                "options": [
+                    "Một loại nhạc cụ truyền thống dùng trong đờn ca tài tử",
+                    "Một chiếc thuyền nhỏ chuyên dùng để vận chuyển hàng hóa",
+                    "Một cây sào dài dùng để treo sản phẩm quảng bá hàng hóa",
+                    "Một loại nông sản đặc trưng được bày bán trên sông"
+                ],
+                "correct": "Một cây sào dài dùng để treo sản phẩm quảng bá hàng hóa"
+            },
+            {
+                "question": "Tại sao người bán hàng tại chợ nổi Cái Răng lại sử dụng phương thức “treo gì bán nấy”?",
+                "options": [
+                    "Vì không gian trên sông hẹp và tiếng sóng nước gây khó khăn cho việc rao hàng",
+                    "Vì muốn tạo ra hệ sinh thái thương mại phong phú cho du khách",
+                    "Vì muốn tuân thủ quy định của di sản văn hóa phi vật thể quốc gia",
+                    "Vì các vựa trái cây lớn trên bờ yêu cầu phải quảng bá sản phẩm như vậy"
+                ],
+                "correct": "Vì không gian trên sông hẹp và tiếng sóng nước gây khó khăn cho việc rao hàng"
+            },
+            {
+                "question": "Cụm từ “nhịp sống chân thực” trong bài đọc gợi lên hàm ý gì?",
+                "options": [
+                    "Sự ồn ào và náo nhiệt của khách du lịch khi đến tham quan chợ",
+                    "Sự phát triển hiện đại của hệ thống giao thông đường bộ tại Cần Thơ",
+                    "Vẻ đẹp mộc mạc, bình dị và sinh hoạt đời thường của người dân miền Tây",
+                    "Sự đa dạng của các mặt hàng nông sản và đồ gia dụng trên thuyền"
+                ],
+                "correct": "Vẻ đẹp mộc mạc, bình dị và sinh hoạt đời thường của người dân miền Tây"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai ngữ pháp?",
+                "options": [
+                    "Chợ nổi Cái Răng đã hình thành từ thời kỳ đường bộ chưa phát triển mạnh.",
+                    "Du khách có cơ hội thưởng thức những buổi biểu diễn đờn ca tài tử ngay trên thuyền.",
+                    "Mỗi chiếc thuyền thường chỉ chuyên bày bán một loại mặt hàng nông sản nhất định.",
+                    "Các thương lái bắt đầu hành trình lấy hàng là từ khoảng hai đến ba giờ sáng."
+                ],
+                "correct": "Các thương lái bắt đầu hành trình lấy hàng là từ khoảng hai đến ba giờ sáng."
+            },
+            {
+                "question": "Trước đây, hoạt động chính của chợ nổi Cái Răng là gì?",
+                "options": [
+                    "Biểu diễn đờn ca tài tử cho du khách trong và ngoài nước",
+                    "Giao thương giữa các thuyền buôn nông sản và hàng hóa thiết yếu",
+                    "Bày bán các món ăn đặc sản vùng miền và đồ gia dụng",
+                    "Tổ chức các phiên chợ sôi động giống như vùng núi phía Bắc"
+                ],
+                "correct": "Giao thương giữa các thuyền buôn nông sản và hàng hóa thiết yếu"
+            },
+            {
+                "question": "Đặc điểm nào của chợ nổi Cái Răng đã thay đổi theo thời gian?",
+                "options": [
+                    "Vị trí địa lý nằm tại ngã ba sông",
+                    "Sự đa dạng của các mặt hàng được bày bán",
+                    "Thời điểm bắt đầu hoạt động trong ngày",
+                    "Việc sử dụng cây bẹo để treo hàng hóa"
+                ],
+                "correct": "Sự đa dạng của các mặt hàng được bày bán"
+            },
+            {
+                "question": "Từ “giao thương” trong văn bản có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Di chuyển",
+                    "Trao đổi",
+                    "Trình diễn",
+                    "Khám phá"
+                ],
+                "correct": "Trao đổi"
+            },
+            {
+                "question": "Nếu hệ thống giao thông đường bộ không phát triển, điều gì có khả năng cao nhất vẫn đúng với chợ nổi Cái Răng?",
+                "options": [
+                    "Chợ sẽ mất đi vị thế là điểm gặp gỡ quan trọng của người dân",
+                    "Chợ sẽ không còn là di sản văn hóa phi vật thể quốc gia",
+                    "Chợ vẫn sẽ là phương thức di chuyển và giao thương chính của người dân",
+                    "Chợ sẽ chỉ chuyên bày bán một loại mặt hàng nông sản duy nhất"
+                ],
+                "correct": "Chợ vẫn sẽ là phương thức di chuyển và giao thương chính của người dân"
+            },
+            {
+                "question": "Việc chợ nổi Cái Răng được công nhận là “di sản văn hóa phi vật thể quốc gia” mang hàm ý gì?",
+                "options": [
+                    "Chợ đã trở thành một địa điểm du lịch có giá trị văn hóa cần được bảo tồn",
+                    "Chợ là nơi duy nhất tại miền Tây còn giữ được các hoạt động buôn bán trên sông",
+                    "Chợ đã được hiện đại hóa để đáp ứng nhu cầu của du khách quốc tế",
+                    "Chợ là nơi tập trung nhiều vựa trái cây lớn nhất của vùng đồng bằng sông Cửu Long"
+                ],
+                "correct": "Chợ đã trở thành một địa điểm du lịch có giá trị văn hóa cần được bảo tồn"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
