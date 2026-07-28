@@ -4197,5 +4197,256 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Bảo tồn và phát huy giá trị di sản Phố cổ Hà Nội",
+        "text": "Phố cổ Hà Nội từ lâu đã được biết đến là một di sản đô thị độc đáo, nơi hội tụ nhiều dấu ấn văn hóa Thăng Long với 36 phố phường truyền thống. Việc bảo tồn và tôn tạo khu vực này không chỉ nhằm gìn giữ những giá trị lịch sử quý báu mà còn góp phần phát triển du lịch và cải thiện điều kiện sống cho người dân. Tuy nhiên, đây là một bài toán khó, đòi hỏi sự phối hợp chặt chẽ giữa chính quyền và cộng đồng.\n\nKhu phố cổ rộng hơn 82 ha là sự hòa quyện của nhiều phong cách kiến trúc khác nhau như truyền thống Việt Nam, Trung Hoa và châu Âu. Đặc trưng nhất là những ngôi nhà hình ống với sân trong, giếng trời và mái ngói. Thế nhưng, hiện nay, nhiều công trình cổ đã bị thay thế bởi các tòa nhà cao tầng hiện đại, làm mất đi vẻ đẹp hài hòa vốn có. Bên cạnh đó, các phố nghề truyền thống cũng dần biến mất, thay vào đó là các cửa hàng kinh doanh, khách sạn và văn phòng. Theo các chuyên gia, việc giữ gìn hình thái kiến trúc này là thách thức lớn do nhu cầu phát triển vật chất và tinh thần ngày càng cao của xã hội.\n\nMột vấn đề cấp thiết khác là mật độ dân số quá đông đúc. Nhiều căn nhà nhỏ hẹp phải chứa đến hàng chục hộ dân sinh sống, gây áp lực lớn lên cơ sở hạ tầng. Để giải quyết tình trạng này, thành phố đã triển khai đề án giãn dân từ năm 2012 với mục tiêu di chuyển hàng ngàn hộ dân đến khu đô thị mới. Dù vậy, việc thực hiện vẫn gặp nhiều khó khăn do người dân vẫn muốn bám trụ tại trung tâm để thuận tiện cho việc kinh doanh. Thực tế cho thấy, chỉ một số ít hộ dân sống trong các di tích hoặc cơ quan đã chuyển đi, còn phần lớn vẫn tiếp tục sinh sống tại đây.\n\nĐể bảo tồn hiệu quả, chính quyền Hà Nội nhấn mạnh rằng vai trò của người dân là yếu tố quan trọng nhất. Cần có những chính sách xã hội hóa, gắn quyền lợi kinh tế của người dân với việc bảo vệ các ngôi nhà cổ. Ngoài ra, việc đánh giá tác động của du lịch cũng cần được chú trọng để giảm thiểu những ảnh hưởng tiêu cực đến cảnh quan. Phố cổ Hà Nội không chỉ là một di sản mà còn là điểm đến thu hút phần lớn khách du lịch khi ghé thăm Thủ đô. Vì vậy, việc quản lý và tôn tạo tốt khu phố này không chỉ giúp phát triển kinh tế mà còn là cơ sở để nâng tầm vị thế di sản trong tương lai.",
+        "dictionary": {
+            "Phố cổ": "古街",
+            "Hà Nội": "河内",
+            "di sản": "遗产",
+            "đô thị": "城市",
+            "độc đáo": "独特",
+            "nơi": "地方",
+            "hội tụ": "汇聚",
+            "dấu ấn": "印记",
+            "văn hóa": "文化",
+            "Thăng Long": "升龙",
+            "phố phường": "街道",
+            "truyền thống": "传统",
+            "bảo tồn": "保护",
+            "tôn tạo": "修缮",
+            "khu vực": "区域",
+            "gìn giữ": "保持",
+            "giá trị": "价值",
+            "lịch sử": "历史",
+            "quý báu": "珍贵",
+            "góp phần": "贡献",
+            "phát triển": "发展",
+            "du lịch": "旅游",
+            "cải thiện": "改善",
+            "điều kiện": "条件",
+            "sống": "生活",
+            "người dân": "居民",
+            "bài toán": "难题",
+            "khó": "困难",
+            "đòi hỏi": "要求",
+            "sự phối hợp": "配合",
+            "chặt chẽ": "紧密",
+            "chính quyền": "政府",
+            "cộng đồng": "社区",
+            "Khu phố cổ": "古城区",
+            "rộng": "宽阔",
+            "ha": "公顷",
+            "hòa quyện": "融合",
+            "phong cách": "风格",
+            "kiến trúc": "建筑",
+            "Việt Nam": "越南",
+            "Trung Hoa": "中华",
+            "châu Âu": "欧洲",
+            "đặc trưng": "特征",
+            "ngôi nhà": "房屋",
+            "hình ống": "管状",
+            "sân trong": "内院",
+            "giếng trời": "天井",
+            "mái ngói": "瓦顶",
+            "công trình": "工程",
+            "cổ": "古老",
+            "thay thế": "替代",
+            "tòa nhà": "大楼",
+            "cao tầng": "高层",
+            "hiện đại": "现代",
+            "vẻ đẹp": "美感",
+            "hài hòa": "和谐",
+            "phố nghề": "手工艺街",
+            "biến mất": "消失",
+            "cửa hàng": "商店",
+            "kinh doanh": "经营",
+            "khách sạn": "酒店",
+            "văn phòng": "办公室",
+            "chuyên gia": "专家",
+            "hình thái": "形态",
+            "thách thức": "挑战",
+            "lớn": "巨大",
+            "nhu cầu": "需求",
+            "vật chất": "物质",
+            "tinh thần": "精神",
+            "xã hội": "社会",
+            "vấn đề": "问题",
+            "cấp thiết": "紧迫",
+            "mật độ": "密度",
+            "dân số": "人口",
+            "đông đúc": "拥挤",
+            "căn nhà": "住宅",
+            "nhỏ hẹp": "狭窄",
+            "hộ dân": "户",
+            "áp lực": "压力",
+            "cơ sở hạ tầng": "基础设施",
+            "giải quyết": "解决",
+            "tình trạng": "状况",
+            "thành phố": "城市",
+            "triển khai": "展开",
+            "đề án": "方案",
+            "giãn dân": "疏散人口",
+            "mục tiêu": "目标",
+            "di chuyển": "迁移",
+            "ngàn": "千",
+            "mới": "新",
+            "thực hiện": "执行",
+            "khó khăn": "困难",
+            "bám trụ": "坚守",
+            "trung tâm": "中心",
+            "thuận tiện": "便利",
+            "thực tế": "现实",
+            "di tích": "遗迹",
+            "cơ quan": "机关",
+            "hiệu quả": "有效",
+            "nhấn mạnh": "强调",
+            "vai trò": "作用",
+            "yếu tố": "要素",
+            "quan trọng": "重要",
+            "chính sách": "政策",
+            "xã hội hóa": "社会化",
+            "quyền lợi": "权益",
+            "kinh tế": "经济",
+            "bảo vệ": "保护",
+            "đánh giá": "评估",
+            "tác động": "影响",
+            "chú trọng": "注重",
+            "giảm thiểu": "减少",
+            "tiêu cực": "负面",
+            "cảnh quan": "景观",
+            "điểm đến": "目的地",
+            "thu hút": "吸引",
+            "ghé thăm": "访问",
+            "Thủ đô": "首都",
+            "quản lý": "管理",
+            "tương lai": "未来",
+            "vị thế": "地位"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Phố cổ Hà Nội là một di sản đô thị độc đáo.",
+                    "Việc bảo tồn khu vực này đòi hỏi sự phối hợp chặt chẽ giữa chính quyền và cộng đồng.",
+                    "Khu phố cổ rộng hơn 82 ha là sự hòa quyện của nhiều phong cách kiến trúc khác nhau.",
+                    "Nhiều công trình cổ đã bị thay thế bởi các tòa nhà cao tầng hiện đại làm mất đi vẻ đẹp hài hòa vốn có mà không cần giải pháp."
+                ],
+                "correct": "Nhiều công trình cổ đã bị thay thế bởi các tòa nhà cao tầng hiện đại làm mất đi vẻ đẹp hài hòa vốn có mà không cần giải pháp."
+            },
+            {
+                "question": "Theo bài đọc, khu phố cổ Hà Nội có diện tích là bao nhiêu?",
+                "options": [
+                    "Rộng hơn 36 ha",
+                    "Rộng hơn 82 ha",
+                    "Rộng hơn 2012 ha",
+                    "Rộng hơn 100 ha"
+                ],
+                "correct": "Rộng hơn 82 ha"
+            },
+            {
+                "question": "Đặc điểm kiến trúc nào được nhắc đến là đặc trưng nhất của nhà ở trong phố cổ?",
+                "options": [
+                    "Các tòa nhà cao tầng hiện đại với văn phòng",
+                    "Nhà hình ống với sân trong, giếng trời và mái ngói",
+                    "Các công trình kiến trúc Trung Hoa và châu Âu riêng biệt",
+                    "Các cửa hàng kinh doanh và khách sạn truyền thống"
+                ],
+                "correct": "Nhà hình ống với sân trong, giếng trời và mái ngói"
+            },
+            {
+                "question": "Từ “di sản” trong đoạn văn có thể được hiểu là gì?",
+                "options": [
+                    "Những công trình kiến trúc mới được xây dựng để phát triển du lịch",
+                    "Những giá trị văn hóa, lịch sử quý báu được lưu truyền lại",
+                    "Những tòa nhà cao tầng đang thay thế các ngôi nhà cổ",
+                    "Những cơ sở hạ tầng phục vụ cho mật độ dân số đông đúc"
+                ],
+                "correct": "Những giá trị văn hóa, lịch sử quý báu được lưu truyền lại"
+            },
+            {
+                "question": "Vì sao việc thực hiện đề án giãn dân từ năm 2012 lại gặp nhiều khó khăn?",
+                "options": [
+                    "Vì người dân không muốn rời bỏ các di tích lịch sử",
+                    "Vì chính quyền chưa có chính sách xã hội hóa phù hợp",
+                    "Vì người dân muốn bám trụ tại trung tâm để thuận tiện kinh doanh",
+                    "Vì mật độ dân số tại các khu đô thị mới quá cao"
+                ],
+                "correct": "Vì người dân muốn bám trụ tại trung tâm để thuận tiện kinh doanh"
+            },
+            {
+                "question": "Cụm từ “bài toán khó” trong đoạn đầu văn bản hàm ý điều gì?",
+                "options": [
+                    "Việc giải các bài tập toán học phức tạp cho người dân phố cổ",
+                    "Thách thức trong việc cân bằng giữa bảo tồn di sản và nhu cầu phát triển",
+                    "Sự thiếu hụt ngân sách trầm trọng của chính quyền thành phố",
+                    "Khó khăn trong việc xây dựng thêm các tòa nhà cao tầng mới"
+                ],
+                "correct": "Thách thức trong việc cân bằng giữa bảo tồn di sản và nhu cầu phát triển"
+            },
+            {
+                "question": "Theo văn bản, yếu tố nào được chính quyền Hà Nội nhấn mạnh là quan trọng nhất để bảo tồn hiệu quả?",
+                "options": [
+                    "Sự tham gia và vai trò của người dân",
+                    "Việc xây dựng thêm nhiều khách sạn và văn phòng",
+                    "Việc di dời toàn bộ hộ dân ra khỏi khu phố cổ",
+                    "Sự đầu tư từ các doanh nghiệp du lịch nước ngoài"
+                ],
+                "correct": "Sự tham gia và vai trò của người dân"
+            },
+            {
+                "question": "Từ “đây” trong câu “Thế nhưng, hiện nay, nhiều công trình cổ đã bị thay thế bởi các tòa nhà cao tầng hiện đại, làm mất đi vẻ đẹp hài hòa vốn có” dùng để chỉ đối tượng nào?",
+                "options": [
+                    "Phố cổ Hà Nội",
+                    "Khu đô thị mới",
+                    "Các phố nghề truyền thống",
+                    "Cơ sở hạ tầng"
+                ],
+                "correct": "Phố cổ Hà Nội"
+            },
+            {
+                "question": "Nếu nhu cầu phát triển vật chất và tinh thần của xã hội giảm đi, điều gì có khả năng xảy ra với phố cổ?",
+                "options": [
+                    "Áp lực lên việc giữ gìn hình thái kiến trúc cổ sẽ giảm bớt",
+                    "Mật độ dân số tại phố cổ sẽ tăng lên đột biến",
+                    "Các tòa nhà cao tầng sẽ được xây dựng nhiều hơn",
+                    "Du lịch tại phố cổ sẽ hoàn toàn biến mất"
+                ],
+                "correct": "Áp lực lên việc giữ gìn hình thái kiến trúc cổ sẽ giảm bớt"
+            },
+            {
+                "question": "Hàm ý của việc “gắn quyền lợi kinh tế của người dân với việc bảo vệ các ngôi nhà cổ” là gì?",
+                "options": [
+                    "Người dân chỉ được phép kinh doanh nếu họ là chủ sở hữu nhà cổ",
+                    "Người dân sẽ có động lực bảo tồn nếu việc đó mang lại lợi ích tài chính cho họ",
+                    "Chính quyền sẽ thu thuế cao đối với những người sống trong nhà cổ",
+                    "Việc bảo vệ nhà cổ là trách nhiệm bắt buộc không liên quan đến tiền bạc"
+                ],
+                "correct": "Người dân sẽ có động lực bảo tồn nếu việc đó mang lại lợi ích tài chính cho họ"
+            },
+            {
+                "question": "Theo bài đọc, các phố nghề truyền thống đang đối mặt với tình trạng gì?",
+                "options": [
+                    "Được chính quyền đầu tư để mở rộng quy mô",
+                    "Dần biến mất và thay thế bằng cửa hàng, khách sạn, văn phòng",
+                    "Trở thành trung tâm du lịch thu hút khách quốc tế",
+                    "Được bảo tồn nguyên vẹn nhờ sự phối hợp của cộng đồng"
+                ],
+                "correct": "Dần biến mất và thay thế bằng cửa hàng, khách sạn, văn phòng"
+            },
+            {
+                "question": "Câu nào sau đây mô tả đúng nhất về tình hình thực tế của đề án giãn dân?",
+                "options": [
+                    "Đề án đã hoàn thành mục tiêu di chuyển toàn bộ hộ dân",
+                    "Chỉ một số ít hộ dân sống trong di tích hoặc cơ quan đã chuyển đi",
+                    "Hầu hết người dân đã tự nguyện chuyển đến khu đô thị mới",
+                    "Đề án đã bị hủy bỏ hoàn toàn do sự phản đối của người dân"
+                ],
+                "correct": "Chỉ một số ít hộ dân sống trong di tích hoặc cơ quan đã chuyển đi"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
