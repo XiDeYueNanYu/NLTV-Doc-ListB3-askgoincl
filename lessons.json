@@ -4683,5 +4683,249 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Tầm quan trọng và cách thực hiện phân loại rác thải tại nguồn",
+        "text": "Phân loại rác thải là hành động thiết thực giúp bảo vệ môi trường sống ngày càng trong lành, tươi xanh và sạch đẹp hơn. Nếu thực hiện đúng cách, việc làm này không chỉ bảo vệ sức khỏe con người mà còn duy trì sự cân bằng của hệ sinh thái. Hiện nay, rác thải sinh hoạt thường được chia thành ba nhóm chính. Thứ nhất là rác hữu cơ, bao gồm các loại thực phẩm thừa, rau củ quả sau bữa ăn. Thứ hai là rác vô cơ, gồm những vật dụng không thể tái chế như vỏ ốc, gốm sứ, đồ cao su hoặc gạch đá. Cuối cùng là rác tái chế, bao gồm chai nhựa, lon nước hoặc các loại cốc thủy tinh đã qua sử dụng.\n\nTuy nhiên, thói quen phổ biến của nhiều người hiện nay là bỏ tất cả mọi thứ vào một túi rác duy nhất. Việc này khiến quá trình thu gom và xử lý gặp nhiều khó khăn, đồng thời gây lãng phí nguồn tài nguyên có thể tái chế. Do đó, mấu chốt của vấn đề nằm ở khâu phân loại rác thải tại nguồn. Nếu giải quyết tốt bước này, công tác vận chuyển và xử lý sẽ trở nên nhanh chóng và hiệu quả hơn rất nhiều.\n\nĐể phân loại đúng cách, chúng ta cần lưu ý một số nguyên tắc nhỏ. Đối với rác hữu cơ, bạn có thể tận dụng rau củ thừa để làm phân bón cho cây trồng tại gia. Với thịt cá, do dễ gây mùi khó chịu khi phân hủy, mỗi người nên cân nhắc tính toán lượng thực phẩm cần thiết nhằm giảm bớt rác thải tồn dư. Đối với rác vô cơ, đặc biệt là pin, bạn tuyệt đối không được vứt chung với rác thông thường vì chất độc bên trong có thể gây ô nhiễm nguồn nước nghiêm trọng. Thay vào đó, hãy thu gom riêng và gửi đến các điểm xử lý chuyên dụng. Bên cạnh đó, chúng ta hoàn toàn có thể sáng tạo bằng cách biến những vật dụng cũ thành đồ dùng hữu ích, ví dụ như dùng chai nhựa làm bình hoa hoặc dùng thùng bìa các tông làm hộp đựng đồ.\n\nTại nhiều nơi, đặc biệt là trong các trường đại học, việc đặt các thùng rác riêng biệt đã trở thành hình ảnh quen thuộc. Các hoạt động tuyên truyền về bảo vệ môi trường cũng được tổ chức thường xuyên nhằm nâng cao ý thức cộng đồng. Việc phân loại rác sẽ không hề khó khăn nếu mỗi cá nhân cùng chung tay hành động. Chỉ cần một thay đổi nhỏ trong thói quen hằng ngày, chúng ta đã góp phần tạo nên ý nghĩa lớn cho tương lai của chính mình và thế hệ mai sau.",
+        "dictionary": {
+            "phân loại": "分类",
+            "rác thải": "垃圾",
+            "hành động": "行动",
+            "thiết thực": "切实",
+            "giúp": "帮助",
+            "bảo vệ": "保护",
+            "môi trường": "环境",
+            "sống": "生活",
+            "trong lành": "清新",
+            "tươi xanh": "翠绿",
+            "sạch đẹp": "整洁",
+            "thực hiện": "执行",
+            "đúng": "正确",
+            "cách": "方式",
+            "việc làm": "工作",
+            "sức khỏe": "健康",
+            "con người": "人类",
+            "duy trì": "维持",
+            "cân bằng": "平衡",
+            "hệ sinh thái": "生态系统",
+            "hiện nay": "目前",
+            "sinh hoạt": "生活",
+            "chia": "划分",
+            "nhóm": "组",
+            "chính": "主要",
+            "hữu cơ": "有机",
+            "bao gồm": "包括",
+            "thực phẩm": "食品",
+            "thừa": "剩余",
+            "rau củ quả": "蔬果",
+            "bữa ăn": "餐",
+            "vô cơ": "无机",
+            "vật dụng": "物品",
+            "tái chế": "回收",
+            "vỏ ốc": "贝壳",
+            "gốm sứ": "陶瓷",
+            "đồ cao su": "橡胶制品",
+            "gạch đá": "砖石",
+            "chai nhựa": "塑料瓶",
+            "lon nước": "饮料罐",
+            "cốc thủy tinh": "玻璃杯",
+            "sử dụng": "使用",
+            "thói quen": "习惯",
+            "phổ biến": "普遍",
+            "túi rác": "垃圾袋",
+            "quá trình": "过程",
+            "thu gom": "收集",
+            "xử lý": "处理",
+            "khó khăn": "困难",
+            "lãng phí": "浪费",
+            "nguồn tài nguyên": "资源",
+            "mấu chốt": "关键",
+            "vấn đề": "问题",
+            "khâu": "环节",
+            "nguồn": "源头",
+            "giải quyết": "解决",
+            "bước": "步骤",
+            "công tác": "工作",
+            "vận chuyển": "运输",
+            "nhanh chóng": "迅速",
+            "hiệu quả": "有效",
+            "lưu ý": "注意",
+            "nguyên tắc": "原则",
+            "nhỏ": "小",
+            "tận dụng": "利用",
+            "phân bón": "肥料",
+            "cây trồng": "植物",
+            "gia": "家",
+            "thịt cá": "鱼肉",
+            "mùi": "气味",
+            "khó chịu": "难闻",
+            "phân hủy": "分解",
+            "cân nhắc": "考虑",
+            "tính toán": "计算",
+            "lượng": "量",
+            "tồn dư": "残留",
+            "pin": "电池",
+            "vứt": "扔",
+            "thông thường": "普通",
+            "chất độc": "毒素",
+            "ô nhiễm": "污染",
+            "nước": "水",
+            "nghiêm trọng": "严重",
+            "điểm": "点",
+            "chuyên dụng": "专用",
+            "sáng tạo": "创造",
+            "biến": "变成",
+            "cũ": "旧",
+            "hữu ích": "有用",
+            "ví dụ": "例如",
+            "bình hoa": "花瓶",
+            "thùng": "桶",
+            "bìa các tông": "纸板",
+            "hộp": "盒",
+            "trường đại học": "大学",
+            "hình ảnh": "形象",
+            "quen thuộc": "熟悉",
+            "hoạt động": "活动",
+            "tuyên truyền": "宣传",
+            "tổ chức": "组织",
+            "thường xuyên": "经常",
+            "nâng cao": "提高",
+            "ý thức": "意识",
+            "cộng đồng": "社区",
+            "cá nhân": "个人",
+            "chung tay": "携手",
+            "thay đổi": "改变",
+            "hằng ngày": "每天",
+            "góp phần": "贡献",
+            "ý nghĩa": "意义",
+            "lớn": "大",
+            "tương lai": "未来",
+            "thế hệ": "世代",
+            "mai sau": "后代"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Phân loại rác thải là hành động thiết thực giúp bảo vệ môi trường sống.",
+                    "Việc làm này không chỉ bảo vệ sức khỏe con người mà còn duy trì sự cân bằng của hệ sinh thái.",
+                    "Rác thải sinh hoạt thường được chia thành ba nhóm chính là hữu cơ, vô cơ và tái chế.",
+                    "Vì việc phân loại rác thải tại nguồn là mấu chốt, nhưng công tác xử lý sẽ trở nên hiệu quả hơn."
+                ],
+                "correct": "Vì việc phân loại rác thải tại nguồn là mấu chốt, nhưng công tác xử lý sẽ trở nên hiệu quả hơn."
+            },
+            {
+                "question": "Theo văn bản, nhóm rác thải nào bao gồm các loại thực phẩm thừa và rau củ quả sau bữa ăn?",
+                "options": [
+                    "Rác vô cơ",
+                    "Rác tái chế",
+                    "Rác hữu cơ",
+                    "Rác thải sinh hoạt"
+                ],
+                "correct": "Rác hữu cơ"
+            },
+            {
+                "question": "Vật dụng nào sau đây được liệt kê là rác vô cơ trong bài đọc?",
+                "options": [
+                    "Vỏ ốc",
+                    "Chai nhựa",
+                    "Lon nước",
+                    "Cốc thủy tinh"
+                ],
+                "correct": "Vỏ ốc"
+            },
+            {
+                "question": "Theo bài đọc, hành động nào sau đây được khuyến khích đối với rác hữu cơ là rau củ thừa?",
+                "options": [
+                    "Gửi đến các điểm xử lý chuyên dụng",
+                    "Tận dụng làm phân bón cho cây trồng tại gia",
+                    "Vứt chung với rác thông thường",
+                    "Biến thành bình hoa trang trí"
+                ],
+                "correct": "Tận dụng làm phân bón cho cây trồng tại gia"
+            },
+            {
+                "question": "Đâu là đặc điểm của rác thải vô cơ như pin được nhắc đến trong văn bản?",
+                "options": [
+                    "Dễ gây mùi khó chịu khi phân hủy",
+                    "Có thể tái chế thành đồ dùng hữu ích",
+                    "Có thể gây ô nhiễm nguồn nước nghiêm trọng",
+                    "Là nguồn nguyên liệu chính để làm phân bón"
+                ],
+                "correct": "Có thể gây ô nhiễm nguồn nước nghiêm trọng"
+            },
+            {
+                "question": "Từ “tồn dư” trong đoạn văn có thể được hiểu là gì?",
+                "options": [
+                    "Phần rác thải còn lại sau khi đã phân loại",
+                    "Phần thực phẩm bị hỏng không thể sử dụng",
+                    "Phần rác thải dư thừa sau quá trình tiêu thụ",
+                    "Phần nguyên liệu cần thiết để tái chế"
+                ],
+                "correct": "Phần rác thải dư thừa sau quá trình tiêu thụ"
+            },
+            {
+                "question": "Từ “thay thế” trong câu “Thay vào đó, hãy thu gom riêng và gửi đến các điểm xử lý chuyên dụng” có thể được thay bằng từ nào dưới đây?",
+                "options": [
+                    "Ngược lại",
+                    "Thay vì làm vậy",
+                    "Bên cạnh đó",
+                    "Đồng thời"
+                ],
+                "correct": "Thay vì làm vậy"
+            },
+            {
+                "question": "Nếu mọi người đều bỏ tất cả rác vào một túi duy nhất, điều gì sẽ xảy ra theo nội dung bài đọc?",
+                "options": [
+                    "Quá trình thu gom và xử lý rác thải trở nên nhanh chóng hơn",
+                    "Nguồn tài nguyên có thể tái chế sẽ được tận dụng tối đa",
+                    "Quá trình thu gom và xử lý rác thải gặp nhiều khó khăn",
+                    "Hệ sinh thái sẽ được cân bằng bền vững hơn"
+                ],
+                "correct": "Quá trình thu gom và xử lý rác thải gặp nhiều khó khăn"
+            },
+            {
+                "question": "Vì sao tác giả cho rằng việc phân loại rác tại nguồn là mấu chốt của vấn đề?",
+                "options": [
+                    "Vì nó giúp tiết kiệm chi phí mua túi đựng rác",
+                    "Vì nó giúp công tác vận chuyển và xử lý rác trở nên nhanh chóng và hiệu quả hơn",
+                    "Vì nó giúp con người có thêm thời gian để sáng tạo đồ dùng từ rác",
+                    "Vì nó là yêu cầu bắt buộc tại các trường đại học hiện nay"
+                ],
+                "correct": "Vì nó giúp công tác vận chuyển và xử lý rác trở nên nhanh chóng và hiệu quả hơn"
+            },
+            {
+                "question": "Hàm ý của cụm từ “thay đổi nhỏ trong thói quen hằng ngày” trong bài đọc là gì?",
+                "options": [
+                    "Việc thực hiện phân loại rác thải tại nguồn một cách thường xuyên",
+                    "Việc mua thêm nhiều thùng rác để đặt trong nhà",
+                    "Việc giảm bớt lượng thực phẩm tiêu thụ trong mỗi bữa ăn",
+                    "Việc tham gia các hoạt động tuyên truyền tại trường đại học"
+                ],
+                "correct": "Việc thực hiện phân loại rác thải tại nguồn một cách thường xuyên"
+            },
+            {
+                "question": "Thông điệp ẩn ý của bài đọc về việc “biến những vật dụng cũ thành đồ dùng hữu ích” là gì?",
+                "options": [
+                    "Khuyến khích con người tiết kiệm chi phí mua sắm đồ dùng mới",
+                    "Khuyến khích tư duy sáng tạo để giảm thiểu lượng rác thải ra môi trường",
+                    "Hướng dẫn cách làm bình hoa và hộp đựng đồ từ rác thải",
+                    "Chứng minh rằng rác thải vô cơ có giá trị kinh tế cao"
+                ],
+                "correct": "Khuyến khích tư duy sáng tạo để giảm thiểu lượng rác thải ra môi trường"
+            },
+            {
+                "question": "Câu nào sau đây phản ánh đúng hàm ý về trách nhiệm của mỗi cá nhân đối với môi trường?",
+                "options": [
+                    "Môi trường là vấn đề của các cơ quan chức năng và trường đại học",
+                    "Chỉ cần phân loại rác ở trường học là đủ để bảo vệ tương lai",
+                    "Mỗi cá nhân đóng vai trò quyết định trong việc bảo vệ môi trường thông qua hành động cụ thể",
+                    "Việc phân loại rác là một công việc khó khăn đòi hỏi sự hỗ trợ của cộng đồng"
+                ],
+                "correct": "Mỗi cá nhân đóng vai trò quyết định trong việc bảo vệ môi trường thông qua hành động cụ thể"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
