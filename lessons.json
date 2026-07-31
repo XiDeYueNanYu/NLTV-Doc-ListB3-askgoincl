@@ -4927,5 +4927,260 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Bánh mì Việt Nam - Hành trình từ món ăn ngoại lai đến biểu tượng văn hóa",
+        "text": "Trong lịch sử ẩm thực Việt Nam, hiếm có món ăn nào mang nhiều tầng ý nghĩa văn hóa như bánh mì. Trước hết, đó là món ăn quen thuộc, xuất hiện ở khắp các con phố. Đằng sau sự giản dị ấy là một hành trình dài của văn hóa Việt, nơi khả năng tiếp nhận và chuyển hóa được thể hiện rất rõ nét. Bánh mì không phải là món ăn lâu đời, cũng không cầu kỳ, nhưng nó nổi bật bởi sự sáng tạo đầy ấn tượng. Từ một loại bánh ngoại lai của châu Âu, nó đã trở thành món ăn đường phố quốc dân và là biểu tượng ẩm thực Việt Nam trên toàn cầu.\n\nDấu mốc quan trọng xuất hiện vào cuối thế kỷ XIX, khi thực dân Pháp mang bánh mì baguette đến Việt Nam. Lúc đó, bánh mì có vỏ dày, ruột đặc và chủ yếu phục vụ tầng lớp thượng lưu. Tuy nhiên, người Việt không tiếp nhận một cách thụ động. Họ đã quan sát, cải tiến để phù hợp với khí hậu nhiệt đới và thói quen ăn uống bản địa. Vỏ bánh được làm mỏng hơn để giòn rụm, ruột bánh được giảm bớt để xốp nhẹ và dễ tiêu hóa. Kết quả là một ổ bánh mì hoàn toàn mới ra đời, khác biệt hẳn với bản gốc.\n\nNếu vỏ bánh mang dấu ấn châu Âu thì phần nhân lại là linh hồn Việt Nam thuần túy. Bên cạnh pate, người Việt thêm vào chả lụa, thịt nguội, đồ chua từ cà rốt, củ cải, rau mùi và ớt tươi. Đặc biệt, nước mắm xuất hiện như một tuyên ngôn văn hóa độc đáo. Sự kết hợp giữa vị béo, mặn, chua, cay và hương thơm của rau đã tạo nên sự hài hòa tuyệt đối, phản ánh tư duy ngũ vị và triết lý âm dương của người Việt.\n\nTừ thập niên 1950, bánh mì trở thành bữa ăn chính của người lao động tại Sài Gòn. Sau năm 1975, món ăn này theo chân người Việt ra thế giới. Đến năm 2011, từ bánh mì chính thức được đưa vào từ điển Oxford mà không cần dịch nghĩa. Ngày nay, dù xuất hiện trong các không gian sang trọng hay trên những vỉa hè bình dân, bánh mì vẫn giữ nguyên giá trị cốt lõi. Đó là sự giao thoa lịch sử, thể hiện khả năng thích nghi và sức sống mãnh liệt của văn hóa Việt. Nếu phở là ký ức tập thể thì bánh mì chính là tinh thần sinh tồn đầy linh hoạt của người Việt. Món ăn này không chỉ để ăn, mà còn là một câu chuyện lịch sử được kẹp giữa hai lớp vỏ bánh giòn tan.",
+        "dictionary": {
+            "lịch sử": "历史",
+            "ẩm thực": "饮食",
+            "Việt Nam": "越南",
+            "món ăn": "食物",
+            "tầng": "层",
+            "ý nghĩa": "意义",
+            "văn hóa": "文化",
+            "bánh mì": "法棍面包",
+            "con phố": "街道",
+            "sự": "事",
+            "giản dị": "朴素",
+            "hành trình": "旅程",
+            "dài": "长",
+            "khả năng": "能力",
+            "tiếp nhận": "接受",
+            "chuyển hóa": "转化",
+            "thể hiện": "体现",
+            "rõ nét": "清晰",
+            "lâu đời": "悠久",
+            "cầu kỳ": "讲究",
+            "nổi bật": "突出",
+            "sáng tạo": "创造",
+            "ấn tượng": "印象",
+            "ngoại lai": "外来",
+            "châu Âu": "欧洲",
+            "đường phố": "街头",
+            "quốc dân": "国民",
+            "biểu tượng": "象征",
+            "toàn cầu": "全球",
+            "dấu mốc": "里程碑",
+            "quan trọng": "重要",
+            "thế kỷ": "世纪",
+            "thực dân": "殖民者",
+            "Pháp": "法国",
+            "baguette": "法棍",
+            "vỏ": "皮",
+            "dày": "厚",
+            "ruột": "芯",
+            "đặc": "实",
+            "phục vụ": "服务",
+            "tầng lớp": "阶层",
+            "thượng lưu": "上流",
+            "thụ động": "被动",
+            "quan sát": "观察",
+            "cải tiến": "改良",
+            "phù hợp": "适合",
+            "khí hậu": "气候",
+            "nhiệt đới": "热带",
+            "thói quen": "习惯",
+            "ăn uống": "饮食",
+            "bản địa": "本土",
+            "mỏng": "薄",
+            "giòn rụm": "酥脆",
+            "giảm bớt": "减少",
+            "xốp": "蓬松",
+            "nhẹ": "轻",
+            "tiêu hóa": "消化",
+            "kết quả": "结果",
+            "ổ": "个",
+            "mới": "新",
+            "ra đời": "诞生",
+            "khác biệt": "不同",
+            "bản gốc": "原版",
+            "dấu ấn": "印记",
+            "nhân": "馅",
+            "linh hồn": "灵魂",
+            "thuần túy": "纯粹",
+            "pate": "肉酱",
+            "chả lụa": "扎肉",
+            "thịt nguội": "冷肉",
+            "đồ chua": "腌菜",
+            "cà rốt": "胡萝卜",
+            "củ cải": "萝卜",
+            "rau mùi": "香菜",
+            "ớt": "辣椒",
+            "tươi": "新鲜",
+            "nước mắm": "鱼露",
+            "tuyên ngôn": "宣言",
+            "độc đáo": "独特",
+            "kết hợp": "结合",
+            "vị": "味",
+            "béo": "肥",
+            "mặn": "咸",
+            "chua": "酸",
+            "cay": "辣",
+            "hương thơm": "香气",
+            "rau": "蔬菜",
+            "hài hòa": "和谐",
+            "tuyệt đối": "绝对",
+            "phản ánh": "反映",
+            "tư duy": "思维",
+            "ngũ vị": "五味",
+            "triết lý": "哲学",
+            "âm dương": "阴阳",
+            "thập niên": "年代",
+            "bữa ăn": "餐",
+            "chính": "主要",
+            "người lao động": "劳动者",
+            "Sài Gòn": "西贡",
+            "thế giới": "世界",
+            "từ điển": "词典",
+            "Oxford": "牛津",
+            "dịch": "翻译",
+            "nghĩa": "义",
+            "không gian": "空间",
+            "sang trọng": "豪华",
+            "vỉa hè": "人行道",
+            "bình dân": "平民",
+            "giữ nguyên": "保持",
+            "giá trị": "价值",
+            "cốt lõi": "核心",
+            "giao thoa": "交融",
+            "thích nghi": "适应",
+            "sức sống": "生命力",
+            "mãnh liệt": "强烈",
+            "phở": "河粉",
+            "ký ức": "记忆",
+            "tập thể": "集体",
+            "tinh thần": "精神",
+            "sinh tồn": "生存",
+            "linh hoạt": "灵活",
+            "câu chuyện": "故事",
+            "kẹp": "夹",
+            "lớp": "层",
+            "giòn tan": "酥脆"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai hoặc không đúng ngữ pháp?",
+                "options": [
+                    "Bánh mì đã trở thành món ăn đường phố quốc dân và là biểu tượng ẩm thực Việt Nam trên toàn cầu.",
+                    "Người Việt không tiếp nhận một cách thụ động mà họ đã quan sát, cải tiến bánh mì để phù hợp với khí hậu.",
+                    "Mặc dù bánh mì là món ăn ngoại lai, nhưng nó mang nhiều tầng ý nghĩa văn hóa sâu sắc.",
+                    "Bánh mì không phải là món ăn lâu đời, cũng không cầu kỳ, nhưng nó nổi bật bởi sự sáng tạo đầy ấn tượng."
+                ],
+                "correct": "Người Việt không tiếp nhận một cách thụ động mà họ đã quan sát, cải tiến bánh mì để phù hợp với khí hậu."
+            },
+            {
+                "question": "Thực dân Pháp đã mang loại bánh nào đến Việt Nam vào cuối thế kỷ XIX?",
+                "options": [
+                    "Bánh mì baguette",
+                    "Bánh mì vỏ mỏng",
+                    "Bánh mì ruột xốp",
+                    "Bánh mì nhân chả lụa"
+                ],
+                "correct": "Bánh mì baguette"
+            },
+            {
+                "question": "Đặc điểm nào của bánh mì baguette nguyên bản khi mới du nhập vào Việt Nam?",
+                "options": [
+                    "Vỏ dày và ruột đặc",
+                    "Vỏ mỏng và ruột xốp",
+                    "Vỏ giòn và ruột đặc",
+                    "Vỏ dày và ruột xốp"
+                ],
+                "correct": "Vỏ dày và ruột đặc"
+            },
+            {
+                "question": "Từ “linh hồn” trong đoạn “phần nhân lại là linh hồn Việt Nam thuần túy” có thể được hiểu là gì?",
+                "options": [
+                    "Phần quan trọng nhất tạo nên bản sắc và đặc trưng Việt",
+                    "Phần nguyên liệu chính được nhập khẩu từ châu Âu",
+                    "Phần vỏ bánh được làm mỏng để phù hợp với khí hậu",
+                    "Phần nước sốt được chế biến từ các loại rau củ"
+                ],
+                "correct": "Phần quan trọng nhất tạo nên bản sắc và đặc trưng Việt"
+            },
+            {
+                "question": "Vì sao người Việt lại thay đổi kết cấu vỏ và ruột của bánh mì baguette nguyên bản?",
+                "options": [
+                    "Để phù hợp với khí hậu nhiệt đới và thói quen ăn uống bản địa",
+                    "Để tiết kiệm chi phí nguyên liệu trong thời kỳ khó khăn",
+                    "Để làm cho bánh mì trở nên sang trọng hơn với tầng lớp thượng lưu",
+                    "Để bánh mì có thể bảo quản được lâu hơn trong điều kiện thời tiết nóng"
+                ],
+                "correct": "Để phù hợp với khí hậu nhiệt đới và thói quen ăn uống bản địa"
+            },
+            {
+                "question": "Câu “Món ăn này không chỉ để ăn, mà còn là một câu chuyện lịch sử được kẹp giữa hai lớp vỏ bánh giòn tan” hàm ý điều gì?",
+                "options": [
+                    "Bánh mì là sự kết tinh của quá trình giao lưu văn hóa và lịch sử lâu dài",
+                    "Bánh mì là một loại thực phẩm có giá trị dinh dưỡng cao và lịch sử lâu đời",
+                    "Bánh mì được làm từ những nguyên liệu có nguồn gốc từ các sự kiện lịch sử",
+                    "Bánh mì là món ăn duy nhất ghi lại những biến động của xã hội Việt Nam"
+                ],
+                "correct": "Bánh mì là sự kết tinh của quá trình giao lưu văn hóa và lịch sử lâu dài"
+            },
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về ngữ pháp?",
+                "options": [
+                    "Bánh mì trở thành bữa ăn chính của người lao động tại Sài Gòn từ thập niên 1950.",
+                    "Từ năm 2011, từ bánh mì chính thức được đưa vào từ điển Oxford.",
+                    "Sự kết hợp giữa các nguyên liệu tạo nên vị béo, mặn, chua, cay và hương thơm.",
+                    "Bánh mì không phải là món ăn lâu đời, cũng không cầu kỳ, nhưng nó nổi bật vì sự sáng tạo."
+                ],
+                "correct": "Từ năm 2011, từ bánh mì chính thức được đưa vào từ điển Oxford."
+            },
+            {
+                "question": "Sự kiện nào diễn ra vào năm 2011 liên quan đến bánh mì?",
+                "options": [
+                    "Từ “bánh mì” được đưa vào từ điển Oxford",
+                    "Bánh mì trở thành món ăn quốc dân",
+                    "Bánh mì bắt đầu được xuất khẩu ra thế giới",
+                    "Bánh mì được công nhận là di sản văn hóa"
+                ],
+                "correct": "Từ “bánh mì” được đưa vào từ điển Oxford"
+            },
+            {
+                "question": "Thành phần nào sau đây được văn bản nhắc đến như một “tuyên ngôn văn hóa độc đáo” trong bánh mì?",
+                "options": [
+                    "Nước mắm",
+                    "Thịt nguội",
+                    "Pate",
+                    "Rau mùi"
+                ],
+                "correct": "Nước mắm"
+            },
+            {
+                "question": "Từ “nó” trong câu “Từ một loại bánh ngoại lai của châu Âu, nó đã trở thành món ăn đường phố quốc dân” thay thế cho từ nào?",
+                "options": [
+                    "Bánh mì",
+                    "Văn hóa Việt",
+                    "Bản gốc",
+                    "Tầng lớp thượng lưu"
+                ],
+                "correct": "Bánh mì"
+            },
+            {
+                "question": "Nếu phở được coi là “ký ức tập thể” thì bánh mì được tác giả ví như điều gì?",
+                "options": [
+                    "Tinh thần sinh tồn đầy linh hoạt",
+                    "Sự sáng tạo đầy ấn tượng",
+                    "Biểu tượng của tầng lớp thượng lưu",
+                    "Sự giao thoa của ngũ vị"
+                ],
+                "correct": "Tinh thần sinh tồn đầy linh hoạt"
+            },
+            {
+                "question": "Việc bánh mì xuất hiện ở cả không gian sang trọng lẫn vỉa hè bình dân cho thấy điều gì?",
+                "options": [
+                    "Bánh mì có khả năng thích nghi và sức sống mãnh liệt trong mọi hoàn cảnh",
+                    "Bánh mì là món ăn có giá thành rẻ nên ai cũng có thể mua được",
+                    "Bánh mì đã mất đi giá trị truyền thống do bị biến đổi quá nhiều",
+                    "Bánh mì không còn giữ được sự phân biệt đẳng cấp như thời kỳ đầu"
+                ],
+                "correct": "Bánh mì có khả năng thích nghi và sức sống mãnh liệt trong mọi hoàn cảnh"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
